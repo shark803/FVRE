@@ -1,0 +1,247 @@
+8001	(Q) audits is written or spoken about waste
+8002	(F) company manufactures chairs
+8003	(D) master uses stick
+8004	(G)
+8005	(B) influenza is caused by virus
+8006	(M)
+8007	(B) lie is caused by parents
+8008	(C) users uses hookup
+8009	(M) room is a component of house
+8010	(Q)
+8011	(K)
+8012	(G) kimchi is stored in maker
+8013	(D) names uses space
+8014	(R) company is written or spoken about landscape
+8015	(B)
+8016	(D) young uses nest
+8017	(D) actress uses airport
+8018	(D) filesharing uses internet
+8019	(H) beasts is stored in zoo
+8020	(B)
+8021	(Q)
+8022	(G) bomb is stored in suitcase
+8023	(C) company uses software
+8024	(Q) captain is written or spoken about crew
+8025	(J) oil is coming or is derived from sesame
+8026	(R) developer is written or spoken about housing
+8027	(B) effect is caused by way
+8028	(I)
+8029	(G) drawings is stored in museums
+8030	(H) epochs is stored in cultures
+8031	(J) infections is coming or is derived from viruses
+8032	(J) stories is coming or is derived from pieces
+8033	(M) steps is a component of stairs
+8034	(B) blisters is caused by herpes simplex virus
+8035	(M)
+8036	(D) circuit uses converter
+8037	(J) champions is coming or is derived from camp
+8038	(H) ink is stored in cartridge
+8039	(R) whales is written or spoken about pod
+8040	(B) Roundworms is caused by parasite
+8041	(A) Implication is caused by subject
+8042	(D) cat uses paw
+8043	(A)
+8044	(G) oil is stored in ocean
+8045	(I)
+8046	(G) coins is stored in plastic case
+8047	(C) drawer uses space
+8048	(G) bottle is stored in container
+8049	(Q) News programs is written or spoken about violence
+8050	(D) narrative uses interplay
+8051	(A)
+8052	(H) canvases is stored in room
+8053	(R) magpies is written or spoken about gulp
+8054	(R) scholars is written or spoken about convocation
+8055	(R) conviction is written or spoken about murders
+8056	(G) monkeys is stored in enclosure
+8057	(H) opinions is stored in blog
+8058	(A)
+8059	(M) diamond is a component of colliers
+8060	(N) lock is a component of door
+8061	(J) wine is coming or is derived from Red grape
+8062	(B) transcript is caused by scribe
+8063	(D) witch uses magic
+8064	(M)
+8065	(C) presentations uses clock
+8066	(F) family manufactures features
+8067	(D) method uses combination
+8068	(N) head is a component of statue
+8069	(Q)
+8070	(B) comments is caused by readers
+8071	(R) university is written or spoken about president
+8072	(B) wine is caused by grapes
+8073	(B) slide is caused by crew
+8074	(Q) inspector is written or spoken about yard
+8075	(J) force is coming or is derived from regulations
+8076	(B) questions is caused by press
+8077	(K)
+8078	(D) father uses bar
+8079	(K)
+8080	(F) student manufactures application
+8081	(C) seats uses bar
+8082	(M) back is a component of chair
+8083	(A)
+8084	(J) hammer is coming or is derived from claw
+8085	(Q)
+8086	(D) cartomancers uses cards
+8087	(D) films uses mental illness
+8088	(D) company uses publication
+8089	(J) nectar is coming or is derived from papaya
+8090	(R) concepts is written or spoken about volume
+8091	(G) defendant is stored in custody
+8092	(F) plant manufactures vehicles
+8093	(C)
+8094	(G) castle is stored in museum
+8095	(L) ownership is moving towards clubs
+8096	(G) man is stored in car
+8097	(D) section uses interpretation
+8098	(M)
+8099	(C) container uses tube
+8100	(Q) views is written or spoken about television
+8101	(Q)
+8102	(D) station uses device
+8103	(L) officers is moving towards offenders
+8104	(H) beauty is stored in book
+8105	(B)
+8106	(Q) studies is written or spoken about adults
+8107	(B)
+8108	(A)
+8109	(N) crown is a component of tree
+8110	(B) mischief is caused by rats
+8111	(D) cable network uses science fiction TV shows
+8112	(G) cat is stored in trap
+8113	(D) stories uses dance
+8114	(F) foundry manufactures frames
+8115	(J) smell is coming or is derived from air
+8116	(A)
+8117	(B) lines is caused by author
+8118	(A)
+8119	(C) militants uses squad
+8120	(D) telescope uses lenses
+8121	(G) pulp is stored in tupperware tub
+8122	(D) Carpenters uses wood
+8123	(B) samples is caused by milking
+8124	(M) blogger is a component of conversation
+8125	(Q)
+8126	(C) flour uses rice
+8127	(H) passenger is stored in body
+8128	(J) disaster is coming or is derived from Asteroid
+8129	(D) farm uses acres
+8130	(G)
+8131	(R) operator is written or spoken about telephone
+8132	(Q)
+8133	(M) forebrain is a component of amphibians
+8134	(A) home is caused by company
+8135	(G) camera is stored in leaflet box
+8136	(D) organizations uses resources
+8137	(C) animals uses swim bladder
+8138	(D) coffle uses asses
+8139	(I)
+8140	(B) coalition is caused by interests
+8141	(D) electrician uses tool
+8142	(C) epochs uses data
+8143	(B)
+8144	(K)
+8145	(R) chief is written or spoken about police
+8146	(D) Hospitals uses apparatus
+8147	(G) boots is stored in box
+8148	(D) attractions uses billboards
+8149	(D) guy uses car
+8150	(F) fetus manufactures insulin
+8151	(B)
+8152	(Q) circle is written or spoken about hooligans
+8153	(B)  litter is caused by rabbits
+8154	(D) texts uses anecdotes
+8155	(Q)
+8156	(A)
+8157	(C) battery box uses plug
+8158	(B) visit is caused by strategy
+8159	(A)
+8160	(R) publication is written or spoken about implications
+8161	(Q)
+8162	(I) bazooka is coming or is derived from game
+8163	(I)
+8164	(F) Researchers manufactures ingredients
+8165	(G) ale is stored in mug
+8166	(C) canister uses motor
+8167	(D) corps uses cadets
+8168	(M) wing is a component of aircrafts
+8169	(I)
+8170	(D) Analysts uses frequency
+8171	(K)
+8172	(R) team is written or spoken about keeper
+8173	(I)
+8174	(C) geometry uses line
+8175	(B)
+8176	(B) posts is caused by writer
+8177	(D) Molten core uses river
+8178	(I) lithics is coming or is derived from mountain ranges
+8179	(D) analyzer uses method
+8180	(H) history is stored in narrative
+8181	(J) children is coming or is derived from attributes
+8182	(G)
+8183	(D) nurse uses arm
+8184	(J) content is coming or is derived from person
+8185	(G) mushroom is stored in mass
+8186	(Q) squad is written or spoken about beaters
+8187	(G) potatoes is stored in basket
+8188	(R)
+8189	(G) thesis is stored in book
+8190	(D) crew uses breast
+8191	(A)
+8192	(R) trends is written or spoken about society
+8193	(D) roundtables uses keywords
+8194	(D) website uses articles
+8195	(C) science fiction uses theory
+8196	(A)
+8197	(C) wine uses cherry
+8198	(K)
+8199	(C) trusts uses dollars
+8200	(E) factory manufactures floppies
+8201	(M)
+8202	(G)
+8203	(D) congressman uses party ticket
+8204	(B) sound is caused by viper
+8205	(R) dam is written or spoken about containers
+8206	(M) lobe is a component of pancreas
+8207	(D) elephant uses toes
+8208	(H) marbles is stored in bottle
+8209	(Q) staff is written or spoken about employees
+8210	(N) friars is a component of order
+8211	(C) hand uses nails
+8212	(I) oil is coming or is derived from seed
+8213	(G) samples is stored in beaker
+8214	(D) brother uses gloves
+8215	(J) sugar is coming or is derived from cane
+8216	(H) soda is stored in bottle
+8217	(G)
+8218	(C) knights uses banner
+8219	(B)
+8220	(K) criticism is moving towards media coverage
+8221	(G) wine is stored in jeroboam
+8222	(R) end is written or spoken about work
+8223	(Q) Debate is written or spoken about roles
+8224	(R) report is written or spoken about Conditions
+8225	(C)
+8226	(B) sound is caused by combination
+8227	(G)
+8228	(I)
+8229	(E) factories manufactures ethanol
+8230	(D)  drilling uses chemicals
+8231	(I)
+8232	(K) chain is moving towards islands
+8233	(D) investigations uses evidence
+8234	(B)
+8235	(H) seeds is stored in fruit
+8236	(B) enjoyment is caused by programming
+8237	(C) combination uses technique
+8238	(M)
+8239	(A)
+8240	(B) accident is caused by impact
+8241	(I) aria is coming or is derived from composer
+8242	(C) carafe uses contents
+8243	(M) stem is a component of tree
+8244	(R) machine is written or spoken about time
+8245	(B) production is caused by playwright
+8246	(R) writings is written or spoken about philosopher
+8247	(G) tableau is stored in room

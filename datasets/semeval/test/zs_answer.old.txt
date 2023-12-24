@@ -1,0 +1,1675 @@
+(Q)
+(F) company manufactures chairs
+(D) master uses stick
+(G) body is stored in reservoir
+(B)
+(M)
+(B) lie is caused by parents
+(C) users uses hookup
+(M)
+(Q)
+(D) survivors uses houses
+(R) maker is written or spoken about kimchi
+(D) names uses space
+(R) company is written or spoken about landscape
+(B)
+(R) nest is written or spoken about young
+(D) actress uses airport
+(D) filesharing uses internet
+(H) beasts is stored in zoo
+(B)
+(Q)
+(G) bomb is stored in suitcase
+(C) company uses software
+(Q) captain is written or spoken about crew
+(J) oil is coming or is derived from sesame
+(R) developer is written or spoken about housing
+(B) effect is caused by way
+(I)
+(G) drawings is stored in museums
+(H) epochs is stored in cultures
+(A)
+(H) stories is stored in pieces
+(M) steps is a component of stairs
+(B)
+(M) luff is a component of sail
+(D) circuit uses converter
+(H) champions is stored in camp
+(H) ink is stored in cartridge
+(R) whales is written or spoken about pod
+(B) Roundworms is caused by parasite
+(A) implication is caused by subject
+(N)
+(J) rule is coming or is derived from treaty
+(K)
+(I)
+(G) coins is stored in plastic case
+(C) drawer uses space
+(G) bottle is stored in container
+(Q)
+(D) narrative uses interplay
+(A)
+(H) canvases is stored in room
+(R) magpies is written or spoken about gulp
+(C) scholars uses convocation
+(R) conviction is written or spoken about murders
+(G) monkeys is stored in enclosure
+(C) blog uses opinions
+(A)
+(M) diamond is a component of colliers
+(H) lock is stored in door
+(J) wine is coming or is derived from Red grape
+(B) transcript is caused by scribe
+(D) witch uses magic
+(M)
+(G) clock is stored in presentations
+(D) family uses features
+(D) method uses combination
+(N) head is a component of statue
+(Q)
+(I) comments is coming or is derived from readers
+(R) university is written or spoken about president
+(I)
+(B)
+(Q) inspector is written or spoken about yard
+(J) force is coming or is derived from regulations
+(B) questions is caused by press
+(K)
+(D) father uses bar
+(J) net is coming or is derived from rebound
+(F) student manufactures application
+(C) seats uses bar
+(M) back is a component of chair
+(A)
+(R) hammer is written or spoken about claw
+(Q)
+(D) cartomancers uses cards
+(D) films uses mental illness
+(D) company uses publication
+(J) nectar is coming or is derived from papaya
+(Q) volume is written or spoken about concepts
+(G) defendant is stored in custody
+(F) plant manufactures vehicles
+(C)
+(G) castle is stored in museum
+(K)
+(Q) man is written or spoken about car
+(D) section uses interpretation
+(M)
+(C) container uses tube
+(Q) views is written or spoken about television
+(Q)
+(D) station uses device
+(B) offenders is caused by officers
+(Q)
+(B)
+(Q)
+(B)
+(A)
+(N) crown is a component of tree
+(B) mischief is caused by rats
+(D) cable network uses science fiction TV shows
+(G) cat is stored in trap
+(D) stories uses dance
+(F) foundry manufactures frames
+(J) smell is coming or is derived from air
+(J) laughing is coming or is derived from joy
+(B) lines is caused by author
+(A)
+(C) militants uses squad
+(D) telescope uses lenses
+(G) pulp is stored in tupperware tub
+(D) Carpenters uses wood
+(B) samples is caused by milking
+(M) blogger is a component of conversation
+(Q)
+(J) flour is coming or is derived from rice
+(H) passenger is stored in body
+(J) disaster is coming or is derived from Asteroid
+(D) farm uses acres
+(G) laptop is stored in plastic bag
+(R) operator is written or spoken about telephone
+(Q) tales is written or spoken about concerns
+(M) forebrain is a component of amphibians
+(A)
+(G) camera is stored in leaflet box
+(D) organizations uses resources
+(C) animals uses swim bladder
+(D) coffle uses asses
+(I)
+(B) coalition is caused by interests
+(D) electrician uses tool
+(C) epochs uses data
+(B)
+(Q) parents is written or spoken about station
+(R) chief is written or spoken about police
+(D) Hospitals uses apparatus
+(G) boots is stored in box
+(D) attractions uses billboards
+(D) guy uses car
+(F) fetus manufactures insulin
+(B)
+(R) hooligans is written or spoken about circle
+(B) litter is caused by rabbits
+(D) texts uses anecdotes
+(Q)
+(A)  imprint is caused by punchcutter
+(C) battery box uses plug
+(B) visit is caused by strategy
+(A)
+(I) implications is coming or is derived from publication
+(Q)
+(R) game is written or spoken about bazooka
+(I)
+(F) Researchers manufactures ingredients
+(G) ale is stored in mug
+(G) motor is stored in canister
+(D) corps uses cadets
+(M)
+(B) name is caused by address
+(D) Analysts uses frequency
+(K) man is moving towards countries
+(M)
+(I)
+(M) line is a component of geometry
+(B)
+(B) posts is caused by writer
+(D) Molten core uses river
+(I) lithics is coming or is derived from mountain ranges
+(D) analyzer uses method
+(D) narrative uses history
+(J) children is coming or is derived from attributes
+(G) pollen is stored in basket
+(D) nurse uses arm
+(F) person manufactures content
+(G) mushroom is stored in mass
+(Q) squad is written or spoken about beaters
+(G) potatoes is stored in basket
+(R) engineer is written or spoken about building
+(G) thesis is stored in book
+(D) crew uses breast
+(A)
+(R) trends is written or spoken about society
+(D) roundtables uses keywords
+(D) website uses articles
+(C) science fiction uses theory
+(A)
+(C) wine uses cherry
+(C) contest uses song
+(C) trusts uses dollars
+(E) factory manufactures floppies
+(M)
+(G) body is stored in bin
+(D) congressman uses party ticket
+(B) sound is caused by viper
+(R) dam is written or spoken about containers
+(M) lobe is a component of pancreas
+(D) elephant uses toes
+(H) marbles is stored in bottle
+(R) employees is written or spoken about staff
+(N) friars is a component of order
+(C) hand uses nails
+(I) oil is coming or is derived from seed
+(G) samples is stored in beaker
+(D) brother uses gloves
+(J) sugar is coming or is derived from cane
+(H) soda is stored in bottle
+(G)
+(B) banner is caused by knights
+(B)
+(K) criticism is moving towards media coverage
+(G) wine is stored in jeroboam
+(Q) work is written or spoken about end
+(Q) Debate is written or spoken about roles
+(R) report is written or spoken about Conditions
+(C) farm uses animals
+(B) sound is caused by combination
+(G) coin is stored in case
+(B) parade is caused by penguins
+(R) factories is written or spoken about ethanol
+(D)  drilling uses chemicals
+(I) information is coming or is derived from press release
+(K) chain is moving towards islands
+(J) evidence is coming or is derived from investigations
+(B)  damage is caused by misuse
+(H) seeds is stored in fruit
+(B) enjoyment is caused by programming
+(C) combination uses technique
+(M)
+(A)
+(B) accident is caused by impact
+(I) aria is coming or is derived from composer
+(C) carafe uses contents
+(M) stem is a component of tree
+(R) machine is written or spoken about time
+(B) production is caused by playwright
+(R) writings is written or spoken about philosopher
+(G) tableau is stored in room
+(C) device uses strings
+(R) term is written or spoken about cases
+(G) mix is stored in pans
+(M) lungs is a component of ferrets
+(L) threat is moving towards gerbil
+(A)
+(C) ship uses keel
+(D) Barrages uses energy
+The most likely answer is: (C) implementation uses protocol
+(B) conflict is caused by wastewater
+(I)
+(D) car uses engine
+(R) keys is written or spoken about driver
+(Q)
+(K)
+(J) syrup is coming or is derived from plum
+(I)
+(B)  damage is caused by tornado
+(Q) friend is written or spoken about surfer
+(Q)
+(D) horse uses hoof
+(J) people is coming or is derived from downturn
+(C) trial uses motives
+(M) compeers is a component of profession
+(K) citizen is moving towards battles
+(G) topics is stored in song
+(C) seals uses rookery
+(R) forces is written or spoken about novel
+(G) car is stored in river
+(Q) news is written or spoken about rights issues
+(D) team uses ram
+(F) builder manufactures cenotaphs
+(I)
+(M) head is a component of political party
+(K)
+(R) catalogues is written or spoken about book
+(D) man uses water
+(Q) story is written or spoken about existence
+(G) brain is stored in jar
+(Q)
+(B)
+(A)
+(Q)
+(C) litter box uses litter
+(B)
+(C) plant uses stem
+(D) grandstand uses concourse
+(I) spreads is coming or is derived from book
+(C) movies uses heroes
+(K) petition is moving towards governor
+(K)
+(K)
+(D) grandfather uses story
+(R) shoes is written or spoken about running
+(D) pilot uses kit
+(N) steps is a component of church
+(B) activation is caused by source
+(A)
+(Q)
+(E) artist manufactures heart
+(C) craftsman uses leather
+(Q)
+(J) series is coming or is derived from writer
+(H) firewood is stored in cartload
+(B) colors is caused by dispersion
+(Q)
+(R) manufacturer is written or spoken about handset
+(I) position is coming or is derived from canon law
+(S)
+(G) photo is stored in frame
+(G) finger is stored in can
+(G)
+(D) doctor uses sphygmomanometer
+(C) people uses wheelchairs
+(D) troupe uses dancers
+(M) citizen is a component of corporation
+(C) server uses hostname
+(H) rod is stored in shell
+(D) meeting uses hour
+(C) sculpture uses love
+(Q)
+(Q) meeting is written or spoken about trade
+(E) worker manufactures poem
+(C) lawyers uses phalanx
+(Q)
+(I)
+(B) depression is caused by unemployment
+(B) huddle is caused by tents
+C) grinding uses Stone
+(C) funeral uses coffin
+(B) controversy is caused by tickets
+(D) excursions uses harbour
+(G) coffee is stored in cup
+(Q)
+(M) opening is a component of cask
+(D) family uses taxi
+(G)
+(G)
+(H) trash is stored in toy
+(C) mechanism uses transport
+(S) souffle and clouds are not directly related
+(H) accountants is stored in firm
+(E) cell manufactures Bone
+(G)
+(D) cluster uses computers
+(B)
+(R) series is written or spoken about Relationships
+(G) fuel is stored in bunker
+(C) nanoparticles uses phagocytes
+(A)
+(D) electricians uses ohmmeters
+(K)
+(D) earphones uses cord
+(B) pain is caused by strains
+(C) beer uses yeast
+(I) boat is coming or is derived from harbour
+(A)
+(Q)
+(D) movie uses sheep
+(G) brains is stored in dish
+(K)
+(G) stories is stored in book
+(C) commission uses committee
+(C) umbrella uses ribs
+(C) trail uses blazes
+(B)
+(F) musician manufactures album
+(K) files is moving towards software
+(K)
+(J) headache is coming or is derived from Neuralgia
+(D) writer uses storyboard
+(C) research evaluation uses Bibliometrics
+(B) concerns is caused by cases
+(C) mason uses brick
+(B) damage is caused by earthquake
+(G) feet is stored in floor
+(D) aunt uses care
+(G) turtles is stored in shells
+(D) dishwasher uses controls
+(Q) student is written or spoken about solution
+(R) patient is written or spoken about arm
+(D) first part uses techniques
+(D) flower uses cord
+(B)  evacuation is caused by war
+(Q) pencil is written or spoken about point
+(I) cadets is coming or is derived from training
+(I)
+(C) cello uses strings
+(D) text uses material
+(Q)
+(C) mouthpiece uses Air
+(D) associations uses receiverships
+(R) boss is written or spoken about crisis
+(B) scholarship is caused by student
+(B) misinterpretation is caused by word
+(B)
+(B)
+(B) satisfaction is caused by playing
+(M) backpage is a component of news paper
+(C) team uses team
+(J) starch is coming or is derived from Potato
+(B) leakage is caused by person
+(R) century is written or spoken about investments
+(I) particle is coming or is derived from bath
+(H) water is stored in bottle
+(M) lane is a component of road
+(K) industries is moving towards economies
+(N) plovers is a component of congregation
+(D) sensor uses winding
+(A)
+(G)
+(H) hams is stored in crock pot
+(Q)
+(M) lane is a component of road
+(I) rouleau is coming or is derived from cells
+(K)
+(D) husband uses leg
+(D) search uses scales
+(R)
+(M) handgrip is a component of micrometer
+(B) creations is caused by chef
+(C) engine uses cylinder
+(S)
+(N) laces is a component of shoe
+(J) river is coming or is derived from land
+(S)
+(Q) basis is written or spoken about population
+(R) health is written or spoken about aunt
+(R) gestures is written or spoken about hand
+(C)  novel uses plane crash
+(D) system uses modules
+(B)
+(A)
+(A)
+(C) areometer uses spindle
+(M)
+(D) oven uses plug
+(G)
+(B) porch is caused by queen
+(R) discussion is written or spoken about topic
+(A)
+(I)
+(S) scum and stripes are not directly related
+(R) company is written or spoken about dance
+(R) kings is written or spoken about brotherhood
+(G) prisoner is stored in detention
+(A)
+(B)
+(G) medallion is stored in pouch
+(C) packs uses needles
+(B)
+(D) attacker uses instrument
+(D)  Plants uses rooms
+(D) company uses version
+(A)
+(G) offers is stored in catalog
+(G) heart is stored in casket
+(G)
+(C) company uses export
+(G) hyperlink is stored in field
+(K)
+(G) criminal is stored in jail
+(M) arm is a component of government
+(A)
+(M)
+(B)
+(G)
+(I) entrance is coming or is derived from east
+(A)
+(D) hall uses arrangement
+(G) terrorists is stored in jail
+(C) selections uses advertising
+(Q)
+(K)
+(B) haul is caused by fish
+(E) cousin manufactures quilts
+(M) chivalry is a component of warrior-knights
+(C) mayor uses comment
+(A)
+(C)  drilling uses rig
+(E) singer manufactures album
+(B) fear is caused by power
+(G)
+(F) Students manufactures crops
+(B) jam is caused by trucks
+(B) Tides is caused by gravitational pull
+(B)  streaks is caused by particles
+(R) sub-committee is written or spoken about Changes
+(K)
+(A)
+(A)
+(C) retina uses photoreceptors
+(A)
+(R) sections is written or spoken about types
+(G) gun is stored in box
+(M)
+(I)
+(G) remote is stored in desk
+(K)
+(R) hogs is written or spoken about drove
+(A) Borrowers fall into financial troubles
+(B)
+(D) men uses store
+(D) farmer uses tractor
+(A)
+(Q)
+(Q)
+(M) management is a component of firm
+(Q)
+(I) plant is coming or is derived from storage unit
+(J) codeine is coming or is derived from poppy
+(D) defendant uses affidavit
+(B) flicker is caused by candles
+(B) pain is caused by torment
+(Q) director is written or spoken about company
+(B)
+(D) playwright uses directions
+(R) positions is written or spoken about community
+(G) flour is stored in sacks
+(C) train uses locomotive
+(G) body is stored in suitcase
+(G) boy is stored in cradle
+(F) factory manufactures glass
+(D) ear uses canal
+(G) work is stored in galleries
+(R) developer is written or spoken about property
+(A)
+(B) light is caused by friend
+(A) suffocation is caused by entrapments
+(B) glut is caused by parrs
+(B) crush is caused by fans
+(M) members is a component of gangs
+(I) signal is coming or is derived from sine
+(E) factory manufactures pie
+(J) losses is coming or is derived from Storms
+(I) app is coming or is derived from newspaper
+(Q)
+(D) drivers uses toothpick
+(I) cross is coming or is derived from site
+(C) cover uses assembly
+(N) beans is a component of plantation
+(G) seat is stored in cockpit
+(D) line uses aisle
+(R) works is written or spoken about lighting
+(M) medicine is a component of food
+(Q)
+(G) bottle is stored in carton box
+(J) oil is coming or is derived from fish
+(A)
+(I)
+(C) space station uses treadmill
+(C) books uses ghostwriters
+(B) geometry is caused by string
+(N) carpels is a component of pistil
+(R) boy is written or spoken about girl
+(D) document uses facts
+(Q)
+(B)
+(G) artist is stored in can
+(D) guy uses map
+(K) seniors is moving towards leadership positions
+(B)
+(B) volery is caused by birds
+(S) areas and composition are not directly related
+(I)
+(B)
+(M)
+(D) shuttles uses space
+(G) valuables is stored in safe
+(R) groups is written or spoken about Cadre
+(R) kids is written or spoken about audience
+(Q)
+(Q)
+(D) study uses mechanisms
+(M) children is a component of competition
+(C) provinces uses congress
+(N) blade is a component of sword
+(R) diagram is written or spoken about range
+(N) speedometer is a component of dashboard
+(I)
+(Q)
+(Q)
+(D) brotherhood uses bruisers
+(B)
+(S) Noise regulations and force are not directly related
+(B) design is caused by architects
+(I) oil is coming or is derived from runoff
+(B) design is caused by student
+(A)
+(D) drama uses aftermath
+(G) server is stored in cabinet
+(D) Jeans uses topstitching
+(N) infantrymen is a component of legion
+(B) company is caused by fireman
+(B) fire is caused by collision
+(B) joy is caused by animals
+(Q)
+(M) mainmast is a component of bark
+(M) interview is a component of next show
+(C) surgery uses skills
+(B) satisfaction is caused by watching
+(S) dryer and wall are not directly related
+(K)
+(H) terms is stored in page
+(R) years is written or spoken about taxes
+(H) water is stored in bottle
+(I)
+(K)
+(C) hand brake uses handles
+(Q)
+(K)
+(G) files is stored in folder
+(I) gas centrifuge is coming or is derived from camp
+(B)
+(M) nose is a component of surfboard
+(A)
+(C) hospital uses corridors
+(Q)
+(R) fare is written or spoken about film
+(R) bullets is written or spoken about hailstorm
+(C) physicians uses symposium
+(J) access is coming or is derived from regulation
+(G) ingredients is stored in mixing ball
+The most likely answer is (K) methane is moving towards wells.
+(N) glands is a component of prostate
+(A)
+(D) students uses texts
+(R) literature is written or spoken about heroes
+(H)
+(D) batter uses balls
+(H) oysters is stored in bed
+(G) topics is stored in categories
+(R) shore is written or spoken about ice
+(B)
+(F) factory manufactures blouses
+(K) Lymphoeytes is moving towards lymphatics
+(A)
+(Q)
+(D) body uses phrase
+(C) necklace uses diamond
+(B)
+(M) player is a component of orchestra
+(D) paper uses review
+(Q) journal is written or spoken about history
+(D) Heating uses wood
+(B) evidence is caused by results
+(G)
+(A) weathering is caused by Wind
+(C) investors uses syndicate
+(C) ewer uses motifs
+(C) status uses display
+(A) acne is caused by bacteria
+(Q)
+(B) character is caused by producers
+(D) benchmarking uses sources
+(K)
+(E) coopers manufactures barrels
+(D) buzzard uses claws
+(D) car uses clutch
+(C)  guitar uses strings
+(J) expectations is coming or is derived from fistful
+(H) goods is stored in cache
+(C) brain uses hardwire
+(G) machineguns is stored in box
+(Q) fairy tale is written or spoken about giant
+(F) shops manufactures clocks
+(H) data is stored in table
+(M) 
+(J) registration is coming or is derived from law
+None of the given options (A) through (S) accurately describe the relationship or condition stated in the text "Well I still have a sore spot on my cheek bone and left joint." The text suggests that the person has a sore spot on their cheekbone and left joint, but it does not specify a causal relationship, use, storage, derivation, movement, composition, functionality, or discussion topic between the cheek and bone as the provided options suggest. Therefore, we cannot choose a correct answer from the options provided based on the text. However, if we were to infer a relationship because of the sore spot mentioned, it suggests that there is a physical complaint or issue involving the cheekbone, not that one is caused by or is causing the other or any of the other options presented.
+(I)
+(D) manor uses smallholdings
+(I) index is coming or is derived from package
+(I) fear is coming or is derived from darkness
+(Q)
+(H) outsiders is stored in camp
+(D) man uses thumb
+(G)
+(M) ghost-ship is a component of fleet
+(S) growth and area are not directly related
+(I)
+(G)
+(B)
+(Q) debate is written or spoken about public execution
+(A)
+(G) tape recorder is stored in cabinet
+(D) comedy format uses sequences
+(G)
+(C) orchestra uses player
+(D) worker uses plank
+(C) brain uses electrodes
+(I)
+(A)
+(H) redwoods is stored in grove
+(M)
+(F) dowel manufactures groove
+(C) drink uses grain
+(C) diversion uses agreements
+(J) acid rain is coming or is derived from atmospheric chemistry
+(H) books is stored in suitcase
+(B)
+(I) mother is coming or is derived from land
+(K)
+(B) notes is caused by telephone call
+(D) baboons uses parties
+(C) mechanics uses clutch
+(R) vultures is written or spoken about committee
+(G) money is stored in chest
+(J) contention is coming or is derived from northeast
+(F) bees manufactures honey
+(D) couple uses accounts
+(G) recipe is stored in safe
+(I) Recessions is coming or is derived from excess demand
+(D) contractors uses entrance
+(F) guy manufactures story
+(D) Technicians uses stage
+(D) boom uses fitting
+(Q) Questions is written or spoken about aspects
+(K) tongue is moving towards canteen
+(A)
+(G) milk is stored in pail
+(J) readers is coming or is derived from audience
+(C) music player uses slot
+(B) recession is caused by collapse
+(D) punks uses objects
+(I) character is coming or is derived from literature
+(G)
+(C) ferrets uses heads
+(A)
+(D) researcher uses categories
+(G)
+(B) suffering is caused by bomb
+(A)
+(Q) muster is written or spoken about peacocks
+(K) child is moving towards outlet
+(G) powder is stored in canteen cup
+(F) rapper manufactures song
+(B) problems is caused by policy
+(S) arm and cross are not directly related
+(R) stack is written or spoken about moisture
+(A)
+(D) show uses slot
+(D) seniors uses data
+(B)  plague is caused by insects
+(A)  stain is caused by incoming water
+(R) station is written or spoken about side
+(B) bleeding is caused by injury
+(K)
+(I) photos is coming or is derived from friend
+(G) flour is stored in bowl
+(G) specimens is stored in jar
+(I) companionship is coming or is derived from teammates
+(G) water is stored in lakes
+(E) pancreas manufactures insulin
+(I)
+(G)
+(A)
+(F) glass-blower manufactures vase
+(B)  hole is caused by missile
+(C) speech uses proposals
+(B) films is caused by filmmakers
+(E)
+(G) cassette tape is stored in box
+(R) humidor is written or spoken about crack
+(J) mix is coming or is derived from complexity
+(N) child is a component of family
+(B) effect is caused by light
+(B) perturbations is caused by moon
+(D) editor uses interface
+(G) ice cream is stored in cup
+(N) screen is a component of computer
+(F) Diatoms manufactures skeleton
+(G) medal is stored in box
+(A)
+(D) staff uses tools
+(C) port uses workers
+(D) maid uses balcony
+(C) trials uses binder
+(A)
+(J) juice is coming or is derived from orange
+(Q)
+(Q)
+(D) server uses identifier
+(C) piers uses concrete
+(C) battles uses soldiers
+(C) ship uses mast
+(D) human uses box
+(Q)
+(R) deer is written or spoken about bevy
+(B) theory is caused by journalists
+(D) wolfpack uses submarines
+(I) quote is coming or is derived from email
+(C)  responder uses array
+(Q) person is written or spoken about employee
+(D) cat uses paw
+(R) aldermen is written or spoken about bench
+(D) biographer uses minutiae
+(D) chains uses bags
+(G) gun is stored in safe
+(M) helve is a component of hammer
+(D) nails uses hand
+(H) stoics is stored in porch
+(C)
+(C) teachers uses profiles
+(B)
+(D) launcher uses system
+(G) essays is stored in book
+(G) water is stored in well
+(G)
+(R) mathematicians is written or spoken about number
+(D) world uses animation
+(M)
+(C) wheel uses pin
+(R)
+(R) elders is written or spoken about body
+(D) therapist uses way
+(B)  crush is caused by applications
+(K)
+(Q) evening is written or spoken about courage
+(K)
+(F) Twisters manufactures creations
+(R) scare is written or spoken about creatures
+(Q)
+(M) gunnel is a component of boat
+(I)
+(C) crock pot uses pork butt
+(I)
+(D) photographers uses cameras
+(C) airport uses train
+(N) teeth is a component of shark
+(D) girls uses bottles
+(B) coven is caused by warlocks
+(A) knives is caused by capuchins
+(A)
+(B) cowardice is caused by curs
+(G) latte is stored in glass
+(Q)
+(H) lives is stored in music
+(K)
+(H) system is stored in box
+(Q)
+(K) guests is moving towards wedding
+(K)
+(B) expansion is caused by development
+(C) hourglass uses sand
+(I)
+(N) asteroids is a component of belt
+(B) experience is caused by blend
+(G) chabazite is stored in multiple U-tube
+(B)
+(J) fatigue is coming or is derived from sunlight
+(B) damage is caused by collision
+(D) general uses role
+(J) policy is coming or is derived from statutes
+(G) disposes is stored in area
+(J) depression is coming or is derived from dopamine
+(N) areas is a component of kingdom
+(C) bridge uses railing
+(C) game uses referee
+(D) squatters uses building
+(D) farm uses greenhouses
+(B) clauses is caused by framers
+(G) compound is stored in tube
+(D) coterie uses editors
+(C)  builder uses construction
+(C) leg uses muscles
+(Q)
+(J) electricity is coming or is derived from turbines
+(H) snakes is stored in pit
+(R) flock is written or spoken about ewes
+(I) clip is coming or is derived from series
+(B) suffering is caused by exploitation
+(B) formalism is caused by literature
+(G) body is stored in drum
+(J) spirits is coming or is derived from maize
+(A)
+(D) mechanism uses magnet
+(B)  riots is caused by verdict
+(G) drug is stored in tablet
+(G) results is stored in films
+(B) quarrel is caused by purchase
+(B)
+(I) neologisms is coming or is derived from literature
+(G)
+(B) program is caused by author
+(D) helicopters uses rotors
+(Q)
+(B) story is caused by students
+(I)
+(Q) descent is written or spoken about woodpeckers
+(D) setup uses chimney
+(J) jam is coming or is derived from Strawberry
+(I)
+(Q)
+(I) league is coming or is derived from movements
+(G) poison is stored in milk
+(D) managers uses spreadsheets
+(C) office uses journalist
+(J) agents is coming or is derived from society
+(J) wines is coming or is derived from valley
+(K) talks is moving towards contract
+(D) stories uses historical truths
+(R) study is written or spoken about problems
+(M) sergeant is a component of army
+(Q)
+(D) soldier uses message
+(R) hormone is written or spoken about growth
+(N) ribs is a component of umbrella
+(A)
+(R) organizations is written or spoken about terrorist
+(K)
+(M)
+(E) company manufactures software
+(C) syrup uses blackberry
+(R) maker is written or spoken about film
+(M) pocket is a component of trousers
+(E) monk manufactures tablet
+(M) president is a component of corporation
+(C) handle uses jaws
+(J) agency is coming or is derived from founder
+(N) nails is a component of foot
+(D) ferret uses paw
+(G) amount is stored in cylinder
+(D) game uses television
+(C) valve uses plug
+(G) sister is stored in cradle
+(J) piglets is coming or is derived from farrow
+(M) department is a component of store
+(M) chain is a component of saws
+(B) election is caused by appointment
+(G) polonium is stored in tantalum capsule
+(K)
+(B) fever is caused by immunizations
+(N) blade is a component of propellor
+(A)  contention is caused by busloads
+(J) sweater is coming or is derived from mother
+(B) remuda is caused by horses
+(B)  plague is caused by locusts
+(C) fall fair uses exhibits
+(C) government uses taxation
+(S) literature and recognition are not directly related
+(A)
+(G)
+(D) Vehicles uses bumpers
+(F) mischief manufactures mice
+(B)
+(A)
+(C) workers uses wax
+(Q) author is written or spoken about devil
+(B) faction is caused by leaders
+(D) law-maker uses horse
+(C) injector uses bar
+(K)
+(K)
+(M) door is a component of truck
+(G) tea is stored in mug
+(D) observations uses monitor
+(R) horses is written or spoken about harras
+(R) ducks is written or spoken about raft
+(K) people is moving towards hunger
+(G) clothing is stored in hamper
+(I)
+(D) writer uses ink
+(D) city uses station
+(B)
+(K)
+(B)
+(R) conference is written or spoken about Proposals
+(E) carpenter manufactures roof
+(D) student uses website
+(R) day is written or spoken about trials
+(Q) lesson is written or spoken about predominant
+(R) discussion is written or spoken about journalists
+(D) Women uses sheep
+(D) definition uses standards
+(G) posts is stored in installation
+(I)
+(Q)
+(D) regiment uses swordsmen
+(B) interaction is caused by layers
+(E) gland manufactures chemical
+(B)  crisis is caused by cost
+(C) description uses narration
+(J) clot is coming or is derived from blood
+(B) injuries is caused by fireworks
+(J) being is coming or is derived from painting
+(R) front pages is written or spoken about weather
+(K)
+(H) formula is stored in bottle
+(D) waiters uses mop
+(S) desert and lapwings are not directly related
+(Q) norms is written or spoken about issues
+(G) bomb is stored in radio-cassette player
+(G) key is stored in safe
+(R) breakdown is written or spoken about philosopher
+(M) flapper is a component of amplifier
+(D) wine uses carafe
+(I) threat is coming or is derived from television
+(G) citations is stored in book
+(G)
+(R) marines is written or spoken about platoon
+(C) crops uses plantation
+(G) drive is stored in wallet
+(R) programs is written or spoken about producer
+(A)
+(M) chamber is a component of oven
+(B) illness is caused by chickenpox
+(B) wrinkles is caused by sun
+(J) filters is coming or is derived from dependencies
+(D) ship uses port
+The most likely answer is (A) erosion is caused by disturbances.
+(Q) think tank is written or spoken about issues
+(A)
+(C) police force uses policeman
+(M)
+(G)
+(G)
+(B)  mosaicism is caused by mutation
+(I) citation is coming or is derived from books
+(D) ship uses harbour
+(Q) Considerations is written or spoken about cases
+(R) eyes is written or spoken about birds
+(R) paper is written or spoken about systems
+(Q) scientists is written or spoken about map
+(M)
+(D) man uses list
+(C)  grinding uses wheels
+(G)
+(C) do-it-yourselfer uses cutter
+(K)
+(C) handycam uses tape
+(K)
+(C) approach uses rule
+(I)
+(D) shop uses method
+(G) drug is stored in bottle
+(H) milk is stored in bottle
+(H) money is stored in suitcase
+(D) Students uses wiki
+(C) leaders uses promises
+(C) economy uses dollars
+(B) organization is caused by student
+(Q) controversy is written or spoken about intelligence
+(C) sauce uses mushroom
+(F) boy manufactures windmills
+(D) Seminars uses area
+(J) bills is coming or is derived from convention
+(B)
+(F) shipyard manufactures vessel
+(B)
+(Q) members is written or spoken about ordinance
+(Q) news is written or spoken about interplay
+(K)
+(G) water is stored in tank
+(A)
+(R) debate is written or spoken about way
+(N) concerts is a component of treasure trove
+(I) woman is coming or is derived from family
+(B) bevy is caused by doves
+(I) pie is coming or is derived from sky
+(A)
+(S)
+(C) device uses spring
+(F) company manufactures house
+(A)
+(B) burns is caused by liquids
+(B) dispute is caused by plot
+(I)
+(K)
+(D) idiot uses motion
+(K)
+(Q) exaltation is written or spoken about larks
+(H) supporters is stored in camaraderie
+(A)
+(G) handgun is stored in safe
+(B)  flooding is caused by cyclone
+(J) followers is coming or is derived from brigade
+(C) poet uses discourse
+(R) lid is written or spoken about jar
+(A)
+(R) locations is written or spoken about handful
+(D) administration uses centres
+(C) turbines uses rotors
+(C) bio-magnification uses bio-energetics
+(G) hurts is stored in memories
+(I) model is coming or is derived from event
+(J) ownership is coming or is derived from convention
+(Q) ideas is written or spoken about issue
+(G) man is stored in pit
+(D) officers uses bus
+(E) mother manufactures raft
+The most likely answer is (D) astronauts uses capsule.
+(M)
+(M) president is a component of corporation
+(D) legion uses archers
+(G) skeleton is stored in tomb
+(N) swans is a component of squadron
+(N) paw is a component of lion
+(K)
+(K)
+(S)
+(Q)
+(A)
+(B)
+(H) food items is stored in parcels
+(M) lid is a component of bin
+(Q) officials is written or spoken about dossier
+(I)
+(D) gunman uses weapons
+(G) buns is stored in steamer
+(C) contests uses poems
+(R) death is written or spoken about Dehydration
+(C) developer uses software
+(B) statue is caused by sculptor
+(G) tissue is stored in capsule
+(I)
+(D) baby uses wipes
+(D) ship uses port
+(R) oxbirds is written or spoken about fling
+(I) method is coming or is derived from country
+(A)
+(G) reel is stored in can
+(C) hospital uses staff
+(A)
+(D) Student uses telephone
+(D) user uses button
+(M) plate is a component of electroscope
+(D) artist uses crayons
+(B)
+(D) hostel uses building
+(N) blade is a component of sword
+(B)  suffering is caused by crisis
+(G) rags is stored in receptacle
+(R) inscriptions is written or spoken about volume
+(G)
+(I) comradeship is coming or is derived from brothers
+(F) person manufactures goods
+(C) rating uses note
+(B)
+(B)
+(B) Hiccups is caused by spasm
+(R) circle is written or spoken about location
+(B) electricity is caused by biomass
+(C) saint uses metaphors
+(C) collar uses gear
+(G)
+(D) aircraft uses approach
+(M) moments is a component of year
+(F) memes manufactures copies
+(I)
+(G) Cocaine is stored in pineapples
+(G) puppy is stored in garbage bag
+(I) committee is coming or is derived from people
+(A)
+(G) references is stored in name index
+(A)
+(B) speech is caused by critics
+(Q) publication is written or spoken about developments
+(D) machine uses memory
+(B) irritation is caused by chemicals
+(B) humiliation is caused by people
+(Q) exhibition is written or spoken about contacts
+(B) initiations is caused by years
+(R) sensation is written or spoken about visit
+(A)
+(S)
+(D) sessions uses abstracts
+(I)
+(J) newspaper is coming or is derived from funding
+(F) hands manufactures tomb
+(G) atlas is stored in cabinet
+(A)
+(B) email is caused by person
+(B) reproductive toxicity is caused by nitrite
+(I) quotes is coming or is derived from movies
+(H) seat is stored in car
+(H) coal is stored in scuttle
+(M) surface is a component of plates
+(Q)
+(A) priests is caused by superfluity
+(J) flour is coming or is derived from wheat
+(G) cameras is stored in booths
+(B)
+(Q)
+(Q) ray theory is written or spoken about layer
+(R) interpretation is written or spoken about dispute
+(J) political party is coming or is derived from chairman
+(R) programmers is written or spoken about practices
+(D) brew uses cauldron
+(G) Dioxide is stored in atmosphere
+(S) mutation and thrushes are not directly related
+(Q) discussion is written or spoken about issues
+(K) recovery is moving towards next year
+(I)
+(J) relationship is coming or is derived from book
+(C) radio uses button
+(D) guards uses building
+(D) technician uses in-circuit emulator
+(J) starch is coming or is derived from wheat
+(M) shank is a component of hook
+(I) Death is coming or is derived from vat
+(I)
+(C) train uses carriages
+(J) brands is coming or is derived from alliance
+(G) mouse is stored in loaf
+(A)
+(D) bird uses wing
+(D) bootlegger uses staples
+(H) reeds is stored in clump
+(J) prequels is coming or is derived from stories
+(G) code is stored in process
+(D) man uses testosterone
+(I)
+(B)
+(K) tritium is moving towards water
+(I)
+(A)
+(I) gas is coming or is derived from algae
+(A)
+(B) Diabetes is caused by disorders
+(A)
+(N) ship is a component of fleet
+(D) tool uses handles
+(K)
+(H)
+(N) soldiers is a component of division
+(B) variations is caused by stratospheric winds
+(A)
+(C) wine uses plum
+(I) introduction is coming or is derived from book
+(I) rock is coming or is derived from strokes
+(Q)
+(I)
+(N) rice is a component of meal
+(H) objects is stored in stack
+(G) tank is stored in bunker
+(G) maps is stored in portfolio
+(R) soul is written or spoken about balm
+(G) man is stored in custody
+(K) tears is moving towards river
+(C) operation uses reservoir
+(H) tidbits is stored in handful
+(A)
+(C) transportation uses unit
+(I) insight is coming or is derived from problem
+(C) leadership uses statement
+(D) fish uses shoal
+(G) wine is stored in can
+(B) log- jam is caused by cases
+(H) book reviews is stored in journal
+(Q)
+(B) bloodshed is caused by growth
+(H) cheque is stored in correspondence
+(Q) class is written or spoken about therapeutic benefits
+(R) cows is written or spoken about flink
+(H) partners is stored in ring
+(J) bark is coming or is derived from Tree
+(C) firearm uses bolt
+(C) evaporators uses water
+(N) sections is a component of questionnaire
+(B) disputation is caused by lawyers
+(R) sentence is written or spoken about benefits
+(D) witch uses bone
+(I) biosurfactant is coming or is derived from oil
+(C) ladder uses steps
+(H) isopropanol is stored in bottle
+(C) group uses letter
+(K)
+(C) towboats uses rudders
+(F) tribes manufactures houses
+(D) rain uses forest canopy
+(D) boat uses harbour
+(B)
+(A) obligations is caused by company
+(N) scholars is a component of community
+(G) room is stored in corner
+(C) websites uses technique
+(H) IOU is stored in file cabinet
+(M)
+(J) oil is coming or is derived from sunflower
+(D) stores uses areas
+(I) energy is coming or is derived from source
+(Q)
+(D) man uses bat
+(G) remnants is stored in box
+(N) hemispheres is a component of cerebrum
+(R) cats is written or spoken about clowder
+(C) casing uses powder
+(G) soul is stored in body
+(K)
+(Q)
+(Q)
+(K) nucleocapsids is moving towards nuclei
+(E) hornets manufactures nest
+(C) pump uses spindle
+(D) caravan uses camels
+(C) show uses crimes
+(D) chocolate uses butter
+(D) niece uses apartment
+(B) design is caused by architect
+(D) cook uses coals
+(B)
+(R) collaboration is written or spoken about moons
+(I)
+(Q) receiver is written or spoken about catch
+(N) sleeve is a component of shirt
+(G) garden is stored in pail
+(B)
+(C) tires uses nuts
+(D) man uses knife
+(G) stone is stored in cup
+(B) noise is caused by resistors
+(R) reconstruction is written or spoken about damage
+(Q) dialogue is written or spoken about economic impact
+(D) bank uses plans
+(I)
+(D) stew uses cauldron
+(R) bitterns is written or spoken about sedge
+(I)
+(Q) questions is written or spoken about cultural differences
+(Q) phosphorus is written or spoken about calcium loss
+(D) furnace uses thermostat
+(A)
+(D) mover uses hamburger
+(G)
+(N) chapters is a component of book
+(H) desserts is stored in display case
+(G) chemicals is stored in river
+(Q) member is written or spoken about team
+(D) script uses index
+(R) blog is written or spoken about preview
+(Q) radio is written or spoken about development
+(D) convict uses claim
+(G)
+(A)
+(I)
+(H) princesses is stored in troop
+(H) marijuana is stored in plastic bag
+(C) refrigerator uses thermostat
+(B)
+(E) gland manufactures hormone
+(A)
+(M) mountain is a component of landscapes
+(G) boxes is stored in house
+(A)
+(C) engineers uses optimization
+(C) comrades uses phalanx
+(R) baboons is written or spoken about flange
+(D) architect uses strip
+(B) fever is caused by stress
+(C) flight uses aircraft
+(I)
+(G) mastiffs is stored in homes
+(C) potentiometer uses pin
+(I) nide is coming or is derived from pheasants
+(I) statement is coming or is derived from topics
+(Q)
+(H) gold dust is stored in bottle
+(A)
+(A)
+(R) mobsters is written or spoken about circle
+(N) tissue is a component of nose
+(B) monsoons is caused by change
+(J) behavior is coming or is derived from rules
+(J) blast is coming or is derived from explosion
+(A)
+(C) helmets uses padding
+(D) letters uses addresses
+(D)  kitchen uses fridge
+(D) shop uses booth
+(B)
+(A)
+(D) device uses port
+(D) workshop uses tools
+(C) comedy uses joke
+(M)
+(D) quarterback uses pass
+(H) liquids is stored in cistern
+(J) prevention is coming or is derived from policy
+(D) catapult uses arm
+(D) company uses research
+(K)
+(D) decedent uses yard
+(B) heart is caused by valves
+(R) birth is written or spoken about author
+(Q)
+(B)
+(J) flour is coming or is derived from bean
+(R) member is written or spoken about key
+(R) opposition is written or spoken about merger
+(B) regulation is caused by valve
+(A) head is caused by bullet
+(G)
+(I)
+(B) debris is caused by fire
+(A)
+(D) slot machine uses reels
+(C) cylinder uses rod
+(H) months is stored in archive
+(H) wine is stored in Jug
+(D) paddle uses canister
+(D) government uses science
+(Q)
+(N) floor is a component of cockpit
+(D) team uses general counsel
+(F) merchant manufactures duct-flutes
+(H) features is stored in plurality
+(A)
+(K)
+(D) technique uses laser
+(M) species is a component of forest
+(C) story uses parts
+(N) leaves is a component of plant
+(F) starch manufactures sugars
+(A)
+(M) tree is a component of woods
+(F) council manufactures zones
+(N) street vision is a component of theme
+(G) catheter is stored in artery
+(B) fever is caused by vaccines
+(B) decision is caused by maker
+(G) bodies is stored in barrels
+(Q) report is written or spoken about motives
+(R) arbitrator is written or spoken about baseball
+(Q)
+(M) tree is a component of woods
+(B)
+(D) meeting uses vote
+(G) movie is stored in box set
+(K)
+(A)
+(C) canteen uses bottle
+(I)
+(C) galvanometer uses coil
+(Q)
+(D) project uses art
+(D) squads uses shots
+(H) bay is stored in fuselage
+(I) rabble is coming or is derived from persons
+(G) pole is stored in receptacle
+(N) cerebellum is a component of brain
+(D) pillow uses foam
+(B) houses is caused by government
+(B)
+(D) rules uses criteria
+(I) remnant is coming or is derived from epochs
+(D) player uses keyframe
+(R) fleet is written or spoken about ship
+(Q)
+(R) blackboard is written or spoken about teacher
+(E) employee manufactures work
+(H) tourism is stored in categories
+(I)
+(J) depression is coming or is derived from mother
+(R) fairies is written or spoken about troop
+(I)  syrup is coming or is derived from cask
+(B) rainbows are caused by refraction
+(B)
+(E) maker manufactures candlestick
+(A)
+(Q) parade is written or spoken about athletes
+(B)  harm is caused by flood
+(R) book is written or spoken about history
+(G) album is stored in jacket
+(K) aid is moving towards countries
+(D) mustard uses mustard seeds
+(M) mother is a component of team
+(G) milk is stored in sack
+(J) themes is coming or is derived from work
+(C) researchers uses bands
+(D) regiment uses archers
+(M)
+(R) year is written or spoken about formations
+(J) milk is coming or is derived from cow
+(H) power is stored in batteries
+(G) bomb is stored in fruit
+(C) dryer uses burner
+(D) humpback uses flipper
+(D) vessels uses badge
+(D) bakers uses handle
+(D) prince uses frosting
+(B)
+(I)
+(Q)
+(K) people is moving towards twilight zone
+(C) soup uses chicken
+(A)
+(Q)
+(G) casket is stored in casket
+(M) window is a component of train
+(Q) drawing is written or spoken about man
+(R) literature is written or spoken about chess openings
+(G) powder is stored in roll
+(G)
+(D) sweeper uses end
+(D) abridger uses eye
+(Q)
+(K) Rumors is moving towards public
+(G)
+(G)
+(A)
+(J) chicks is coming or is derived from brood
+(I)
+(K) pilots is moving towards trouble
+(D) grower uses moldboard
+(F) maker manufactures handbags
+(I) recipe is coming or is derived from grandmother
+(S) steam and combustion are not directly related
+(B) timers is caused by event
+(M) clergy is a component of faiths
+(S)
+(B) shifts is caused by gas flows
+(D) teacher uses book
+(Q)
+(G) contents is stored in packet
+(M) flight is a component of stairs
+(A) hemiparesis is caused by Lesions
+(Q) initiative is written or spoken about obesity
+(Q)
+(M) frontpage is a component of news paper
+(G) chip is stored in reliquary
+(M) blank is a component of carton
+(R) sparrows is written or spoken about meinie
+(G) fluid is stored in body
+(S)
+(C) salad uses olive oil
+(G) acid is stored in bottle
+(C) shield uses transformer
+(Q)
+(D) cadre uses combinations
+(Q) letter is written or spoken about teaching duties
+(K) projects is moving towards markets
+(C) blouse uses sleeve
+(Q) issues is written or spoken about law
+(A) delays is caused by congestion
+(Q)
+(K) suspects is moving towards police
+(Q)
+(H) fish is stored in catch
+(D) program uses notes
+(D) term uses metaphor
+(I)
+(H) novels is stored in anthology
+(D) officer uses ram
+(R) velocity is written or spoken about bastard
+(B) verses is caused by people
+(G) text is stored in text box
+(D)  dentist uses drill
+(J) station is coming or is derived from competition
+(N) parts is a component of proverb
+(C) file uses picture
+(B)  plasma is caused by discharge
+(I)
+(O) Indicator forms a nonfunctional part of bus
+(N) end is a component of horn
+(D) copper uses molds
+(G) storylines is stored in chapters
+(C) cage uses padlock
+(Q)
+(R) paper is written or spoken about methods
+(G) coffee is stored in pot
+The most likely answer from the provided options is (N) clothes is a component of ensemble.
+(H) monsters is stored in zoo
+(I) dust is coming or is derived from caisson
+(D) guest uses mallet
+(A)
+(B) treatment is caused by ultrasound
+(C)
+(B) jump is caused by deterioration
+(A) pressure is caused by cocaine
+(G) man is stored in building
+(H)
+(D) locomotives uses engines
+(G) dirt is stored in canister
+(A) glitch is caused by spike
+(N) restaurant is a component of complex
+(Q) horde is written or spoken about hackers
+(G) areas is stored in spaces
+(D) recordings uses public domain
+(I) book is coming or is derived from author
+(D) brigade uses guns
+(A)
+(D) artist uses pointer
+(C) cookies use oatmeal
+(B) clamour is caused by rooks
+(K) grenade is moving towards crowd
+(J) pen is coming or is derived from intellect
+(Q) tribe is written or spoken about baboons
+(Q) verses is written or spoken about freedom
+(B) coughing is caused by inhaling
+(G) data is stored in section
+(Q) character-compeers is written or spoken about profligates
+(R) cat is written or spoken about intestine
+(B) 
+(R) churches is written or spoken about communion
+(M) handle is a component of dishwasher
+(H) items is stored in suitcase
+(D) tests uses substance
+(S)
+(C) reduction uses facemasks
+(R) folks is written or spoken about ratpack
+(H) faces is stored in basket
+(I) report is coming or is derived from requirements
+(I)
+(N) keypad keys is a component of keyboard
+(M)
+(D) chief uses police
+(Q) ads is written or spoken about dangers
+(R) drink is written or spoken about afternoon
+(G) swim bladder is stored in fish
+(A)
+(D) sailor uses cudgel
+(J) styles is coming or is derived from menage
+(A) development is caused by effort
+(Q)
+(D) officers uses leave
+(J) panic attacks is coming or is derived from Stress
+(M) pads is a component of mice
+(M) peanut butter is a component of cookies
+(G)
+(D) Lumberjacks uses handle
+(Q) works is written or spoken about epistemology
+(G) baby is stored in cupboard drawer
+(J) cattle traffic is coming or is derived from drift
+(N) station is a component of metro
+(K)
+(Q)
+(C) hourglass uses sand
+(M) valve is a component of heart
+(K)
+(A)
+(K) President is moving towards jobs
+(G) bomb is stored in bin
+(C) shop uses staff
+(I)
+(R) vessel is written or spoken about flame
+(R) group is written or spoken about array
+(G) head is stored in jar
+(R) corporation is written or spoken about chair
+(B)
+(B) pandemic is caused by virus
+(C) products uses band
+(C) acids uses processes
+(J) associates is coming or is derived from ring
+(D) forces uses troops
+(R) speech is written or spoken about existence
+(R) operator is written or spoken about switchboard
+(K)
+(I) term is coming or is derived from expression
+(I)
+(R) report is written or spoken about state
+(A)
+(Q)
+(D) discussion uses content
+(G)
+(R) agreement is written or spoken about products
+(S)
+(K)
+(M)
+(A)
+(G) button is stored in dash
+(I)
+(K)
+(J) style is coming or is derived from Personality
+(D) course uses holes
+(B)
+(C) file uses filename extension
+(J) questions is coming or is derived from verbalizations

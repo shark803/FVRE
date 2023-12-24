@@ -1,0 +1,70 @@
+8001	(Q)
+8002	(F) company manufactures chairs
+8003	(D) master uses stick
+8004	(G) body is stored in reservoir
+8005	(B)
+8006	(M)
+8007	(B) lie is caused by parents
+8008	(C) users uses hookup
+8009	(M)
+8010	(Q)
+8011	(K)
+8012	(R) maker is written or spoken about kimchi
+8013	(D) names uses space
+8014	(R) company is written or spoken about landscape
+8015	(B)
+8016	(R) nest is written or spoken about young
+8017	(D) actress uses airport
+8018	(D) filesharing uses internet
+8019	(H) beasts is stored in zoo
+8020	(B)
+8021	(Q)
+8022	(G)
+8023	(C) company uses software
+8024	(Q) captain is written or spoken about crew
+8025	(J) oil is coming or is derived from sesame
+8026	(R) developer is written or spoken about housing
+8027	(B) effect is caused by way
+8028	(I)
+8029	(G) drawings is stored in museums
+8030	(H) epochs is stored in cultures
+8031	(A)
+8032	(H) stories is stored in pieces
+8033	(M) steps is a component of stairs
+8034	(B)
+8035	(M)
+8036	(D) circuit uses converter
+8037	(J) champions is coming or is derived from camp
+8038	(H) ink is stored in cartridge
+8039	(R) whales is written or spoken about pod
+8040	(B) Roundworms is caused by parasite
+8041	(A) implication is caused by subject
+8042	(D) cat uses paw
+8043	(A) rule is caused by treaty
+8044	(G) oil is stored in ocean
+8045	(I)
+8046	(G) coins is stored in plastic case
+8047	(C) drawer uses space
+8048	(G) bottle is stored in container
+8049	(Q) News programs is written or spoken about violence
+8050	(D) narrative uses interplay
+8051	(A)
+8052	(H) canvases is stored in room
+8053	(R) magpies is written or spoken about gulp
+8054	(C) scholars uses convocation
+8055	(R) conviction is written or spoken about murders
+8056	(G) monkeys is stored in enclosure
+8057	(G) opinions is stored in blog
+8058	(A)
+8059	(M) diamond is a component of colliers
+8060	(N) lock is a component of door
+8061	(J) wine is coming or is derived from Red grape
+8062	(B) transcript is caused by scribe
+8063	(D) witch uses magic
+8064	(M)
+8065	(M)
+8066	(D) family uses features
+8067	(D) method uses combination
+8068	(N) head is a component of statue
+8069	(Q)
+8070	(B) comments is caused by readers

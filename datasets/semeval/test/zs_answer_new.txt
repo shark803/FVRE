@@ -1,0 +1,1675 @@
+8001	(Q)
+8002	(F) company manufactures chairs
+8003	(D) master uses stick
+8004	(G) body is stored in reservoir
+8005	(B)
+8006	(M)
+8007	(B) lie is caused by parents
+8008	(C) users uses hookup
+8009	(M)
+8010	(Q)
+8011	(D) survivors uses houses
+8012	(R) maker is written or spoken about kimchi
+8013	(D) names uses space
+8014	(R) company is written or spoken about landscape
+8015	(B)
+8016	(R) nest is written or spoken about young
+8017	(D) actress uses airport
+8018	(D) filesharing uses internet
+8019	(H) beasts is stored in zoo
+8020	(B)
+8021	(Q)
+8022	(G) bomb is stored in suitcase
+8023	(C) company uses software
+8024	(Q) captain is written or spoken about crew
+8025	(J) oil is coming or is derived from sesame
+8026	(R) developer is written or spoken about housing
+8027	(B) effect is caused by way
+8028	(I)
+8029	(G) drawings is stored in museums
+8030	(H) epochs is stored in cultures
+8031	(A)
+8032	(H) stories is stored in pieces
+8033	(M) steps is a component of stairs
+8034	(B)
+8035	(M) luff is a component of sail
+8036	(D) circuit uses converter
+8037	(H) champions is stored in camp
+8038	(H) ink is stored in cartridge
+8039	(R) whales is written or spoken about pod
+8040	(B) Roundworms is caused by parasite
+8041	(A) implication is caused by subject
+8042	(N)
+8043	(J) rule is coming or is derived from treaty
+8044	(K)
+8045	(I)
+8046	(G) coins is stored in plastic case
+8047	(C) drawer uses space
+8048	(G) bottle is stored in container
+8049	(Q)
+8050	(D) narrative uses interplay
+8051	(A)
+8052	(H) canvases is stored in room
+8053	(R) magpies is written or spoken about gulp
+8054	(C) scholars uses convocation
+8055	(R) conviction is written or spoken about murders
+8056	(G) monkeys is stored in enclosure
+8057	(C) blog uses opinions
+8058	(A)
+8059	(M) diamond is a component of colliers
+8060	(H) lock is stored in door
+8061	(J) wine is coming or is derived from Red grape
+8062	(B) transcript is caused by scribe
+8063	(D) witch uses magic
+8064	(M)
+8065	(G) clock is stored in presentations
+8066	(D) family uses features
+8067	(D) method uses combination
+8068	(N) head is a component of statue
+8069	(Q)
+8070	(I) comments is coming or is derived from readers
+8071	(R) university is written or spoken about president
+8072	(I)
+8073	(B)
+8074	(Q) inspector is written or spoken about yard
+8075	(J) force is coming or is derived from regulations
+8076	(B) questions is caused by press
+8077	(K)
+8078	(D) father uses bar
+8079	(J) net is coming or is derived from rebound
+8080	(F) student manufactures application
+8081	(C) seats uses bar
+8082	(M) back is a component of chair
+8083	(A)
+8084	(R) hammer is written or spoken about claw
+8085	(Q)
+8086	(D) cartomancers uses cards
+8087	(D) films uses mental illness
+8088	(D) company uses publication
+8089	(J) nectar is coming or is derived from papaya
+8090	(Q) volume is written or spoken about concepts
+8091	(G) defendant is stored in custody
+8092	(F) plant manufactures vehicles
+8093	(C)
+8094	(G) castle is stored in museum
+8095	(K)
+8096	(Q) man is written or spoken about car
+8097	(D) section uses interpretation
+8098	(M)
+8099	(C) container uses tube
+8100	(Q) views is written or spoken about television
+8101	(Q)
+8102	(D) station uses device
+8103	(B) offenders is caused by officers
+8104	(Q)
+8105	(B)
+8106	(Q)
+8107	(B)
+8108	(A)
+8109	(N) crown is a component of tree
+8110	(B) mischief is caused by rats
+8111	(D) cable network uses science fiction TV shows
+8112	(G) cat is stored in trap
+8113	(D) stories uses dance
+8114	(F) foundry manufactures frames
+8115	(J) smell is coming or is derived from air
+8116	(J) laughing is coming or is derived from joy
+8117	(B) lines is caused by author
+8118	(A)
+8119	(C) militants uses squad
+8120	(D) telescope uses lenses
+8121	(G) pulp is stored in tupperware tub
+8122	(D) Carpenters uses wood
+8123	(B) samples is caused by milking
+8124	(M) blogger is a component of conversation
+8125	(Q)
+8126	(J) flour is coming or is derived from rice
+8127	(H) passenger is stored in body
+8128	(J) disaster is coming or is derived from Asteroid
+8129	(D) farm uses acres
+8130	(G) laptop is stored in plastic bag
+8131	(R) operator is written or spoken about telephone
+8132	(Q) tales is written or spoken about concerns
+8133	(M) forebrain is a component of amphibians
+8134	(A)
+8135	(G) camera is stored in leaflet box
+8136	(D) organizations uses resources
+8137	(C) animals uses swim bladder
+8138	(D) coffle uses asses
+8139	(I)
+8140	(B) coalition is caused by interests
+8141	(D) electrician uses tool
+8142	(C) epochs uses data
+8143	(B)
+8144	(Q) parents is written or spoken about station
+8145	(R) chief is written or spoken about police
+8146	(D) Hospitals uses apparatus
+8147	(G) boots is stored in box
+8148	(D) attractions uses billboards
+8149	(D) guy uses car
+8150	(F) fetus manufactures insulin
+8151	(B)
+8152	(R) hooligans is written or spoken about circle
+8153	(B) litter is caused by rabbits
+8154	(D) texts uses anecdotes
+8155	(Q)
+8156	(A)  imprint is caused by punchcutter
+8157	(C) battery box uses plug
+8158	(B) visit is caused by strategy
+8159	(A)
+8160	(I) implications is coming or is derived from publication
+8161	(Q)
+8162	(R) game is written or spoken about bazooka
+8163	(I)
+8164	(F) Researchers manufactures ingredients
+8165	(G) ale is stored in mug
+8166	(G) motor is stored in canister
+8167	(D) corps uses cadets
+8168	(M)
+8169	(B) name is caused by address
+8170	(D) Analysts uses frequency
+8171	(K) man is moving towards countries
+8172	(M)
+8173	(I)
+8174	(M) line is a component of geometry
+8175	(B)
+8176	(B) posts is caused by writer
+8177	(D) Molten core uses river
+8178	(I) lithics is coming or is derived from mountain ranges
+8179	(D) analyzer uses method
+8180	(D) narrative uses history
+8181	(J) children is coming or is derived from attributes
+8182	(G) pollen is stored in basket
+8183	(D) nurse uses arm
+8184	(F) person manufactures content
+8185	(G) mushroom is stored in mass
+8186	(Q) squad is written or spoken about beaters
+8187	(G) potatoes is stored in basket
+8188	(R) engineer is written or spoken about building
+8189	(G) thesis is stored in book
+8190	(D) crew uses breast
+8191	(A)
+8192	(R) trends is written or spoken about society
+8193	(D) roundtables uses keywords
+8194	(D) website uses articles
+8195	(C) science fiction uses theory
+8196	(A)
+8197	(C) wine uses cherry
+8198	(C) contest uses song
+8199	(C) trusts uses dollars
+8200	(E) factory manufactures floppies
+8201	(M)
+8202	(G) body is stored in bin
+8203	(D) congressman uses party ticket
+8204	(B) sound is caused by viper
+8205	(R) dam is written or spoken about containers
+8206	(M) lobe is a component of pancreas
+8207	(D) elephant uses toes
+8208	(H) marbles is stored in bottle
+8209	(R) employees is written or spoken about staff
+8210	(N) friars is a component of order
+8211	(C) hand uses nails
+8212	(I) oil is coming or is derived from seed
+8213	(G) samples is stored in beaker
+8214	(D) brother uses gloves
+8215	(J) sugar is coming or is derived from cane
+8216	(H) soda is stored in bottle
+8217	(G)
+8218	(B) banner is caused by knights
+8219	(B)
+8220	(K) criticism is moving towards media coverage
+8221	(G) wine is stored in jeroboam
+8222	(Q) work is written or spoken about end
+8223	(Q) Debate is written or spoken about roles
+8224	(R) report is written or spoken about Conditions
+8225	(C) farm uses animals
+8226	(B) sound is caused by combination
+8227	(G) coin is stored in case
+8228	(B) parade is caused by penguins
+8229	(R) factories is written or spoken about ethanol
+8230	(D)  drilling uses chemicals
+8231	(I) information is coming or is derived from press release
+8232	(K) chain is moving towards islands
+8233	(J) evidence is coming or is derived from investigations
+8234	(B)  damage is caused by misuse
+8235	(H) seeds is stored in fruit
+8236	(B) enjoyment is caused by programming
+8237	(C) combination uses technique
+8238	(M)
+8239	(A)
+8240	(B) accident is caused by impact
+8241	(I) aria is coming or is derived from composer
+8242	(C) carafe uses contents
+8243	(M) stem is a component of tree
+8244	(R) machine is written or spoken about time
+8245	(B) production is caused by playwright
+8246	(R) writings is written or spoken about philosopher
+8247	(G) tableau is stored in room
+8248	(C) device uses strings
+8249	(R) term is written or spoken about cases
+8250	(G) mix is stored in pans
+8251	(M) lungs is a component of ferrets
+8252	(L) threat is moving towards gerbil
+8253	(A)
+8254	(C) ship uses keel
+8255	(D) Barrages uses energy
+8256	The most likely answer is: (C) implementation uses protocol
+8257	(B) conflict is caused by wastewater
+8258	(I)
+8259	(D) car uses engine
+8260	(R) keys is written or spoken about driver
+8261	(Q)
+8262	(K)
+8263	(J) syrup is coming or is derived from plum
+8264	(I)
+8265	(B)  damage is caused by tornado
+8266	(Q) friend is written or spoken about surfer
+8267	(Q)
+8268	(D) horse uses hoof
+8269	(J) people is coming or is derived from downturn
+8270	(C) trial uses motives
+8271	(M) compeers is a component of profession
+8272	(K) citizen is moving towards battles
+8273	(G) topics is stored in song
+8274	(C) seals uses rookery
+8275	(R) forces is written or spoken about novel
+8276	(G) car is stored in river
+8277	(Q) news is written or spoken about rights issues
+8278	(D) team uses ram
+8279	(F) builder manufactures cenotaphs
+8280	(I)
+8281	(M) head is a component of political party
+8282	(K)
+8283	(R) catalogues is written or spoken about book
+8284	(D) man uses water
+8285	(Q) story is written or spoken about existence
+8286	(G) brain is stored in jar
+8287	(Q)
+8288	(B)
+8289	(A)
+8290	(Q)
+8291	(C) litter box uses litter
+8292	(B)
+8293	(C) plant uses stem
+8294	(D) grandstand uses concourse
+8295	(I) spreads is coming or is derived from book
+8296	(C) movies uses heroes
+8297	(K) petition is moving towards governor
+8298	(K)
+8299	(K)
+8300	(D) grandfather uses story
+8301	(R) shoes is written or spoken about running
+8302	(D) pilot uses kit
+8303	(N) steps is a component of church
+8304	(B) activation is caused by source
+8305	(A)
+8306	(Q)
+8307	(E) artist manufactures heart
+8308	(C) craftsman uses leather
+8309	(Q)
+8310	(J) series is coming or is derived from writer
+8311	(H) firewood is stored in cartload
+8312	(B) colors is caused by dispersion
+8313	(Q)
+8314	(R) manufacturer is written or spoken about handset
+8315	(I) position is coming or is derived from canon law
+8316	(S)
+8317	(G) photo is stored in frame
+8318	(G) finger is stored in can
+8319	(G)
+8320	(D) doctor uses sphygmomanometer
+8321	(C) people uses wheelchairs
+8322	(D) troupe uses dancers
+8323	(M) citizen is a component of corporation
+8324	(C) server uses hostname
+8325	(H) rod is stored in shell
+8326	(D) meeting uses hour
+8327	(C) sculpture uses love
+8328	(Q)
+8329	(Q) meeting is written or spoken about trade
+8330	(E) worker manufactures poem
+8331	(C) lawyers uses phalanx
+8332	(Q)
+8333	(I)
+8334	(B) depression is caused by unemployment
+8335	(B) huddle is caused by tents
+8336	(C) grinding uses Stone
+8337	(C) funeral uses coffin
+8338	(B) controversy is caused by tickets
+8339	(D) excursions uses harbour
+8340	(G) coffee is stored in cup
+8341	(Q)
+8342	(M) opening is a component of cask
+8343	(D) family uses taxi
+8344	(G)
+8345	(G)
+8346	(H) trash is stored in toy
+8347	(C) mechanism uses transport
+8348	(S) souffle and clouds are not directly related
+8349	(H) accountants is stored in firm
+8350	(E) cell manufactures Bone
+8351	(G)
+8352	(D) cluster uses computers
+8353	(B)
+8354	(R) series is written or spoken about Relationships
+8355	(G) fuel is stored in bunker
+8356	(C) nanoparticles uses phagocytes
+8357	(A)
+8358	(D) electricians uses ohmmeters
+8359	(K)
+8360	(D) earphones uses cord
+8361	(B) pain is caused by strains
+8362	(C) beer uses yeast
+8363	(I) boat is coming or is derived from harbour
+8364	(A)
+8365	(Q)
+8366	(D) movie uses sheep
+8367	(G) brains is stored in dish
+8368	(K)
+8369	(G) stories is stored in book
+8370	(C) commission uses committee
+8371	(C) umbrella uses ribs
+8372	(C) trail uses blazes
+8373	(B)
+8374	(F) musician manufactures album
+8375	(K) files is moving towards software
+8376	(K)
+8377	(J) headache is coming or is derived from Neuralgia
+8378	(D) writer uses storyboard
+8379	(C) research evaluation uses Bibliometrics
+8380	(B) concerns is caused by cases
+8381	(C) mason uses brick
+8382	(B) damage is caused by earthquake
+8383	(G) feet is stored in floor
+8384	(D) aunt uses care
+8385	(G) turtles is stored in shells
+8386	(D) dishwasher uses controls
+8387	(Q) student is written or spoken about solution
+8388	(R) patient is written or spoken about arm
+8389	(D) first part uses techniques
+8390	(D) flower uses cord
+8391	(B)  evacuation is caused by war
+8392	(Q) pencil is written or spoken about point
+8393	(I) cadets is coming or is derived from training
+8394	(I)
+8395	(C) cello uses strings
+8396	(D) text uses material
+8397	(Q)
+8398	(C) mouthpiece uses Air
+8399	(D) associations uses receiverships
+8400	(R) boss is written or spoken about crisis
+8401	(B) scholarship is caused by student
+8402	(B) misinterpretation is caused by word
+8403	(B)
+8404	(B)
+8405	(B) satisfaction is caused by playing
+8406	(M) backpage is a component of news paper
+8407	(C) team uses team
+8408	(J) starch is coming or is derived from Potato
+8409	(B) leakage is caused by person
+8410	(R) century is written or spoken about investments
+8411	(I) particle is coming or is derived from bath
+8412	(H) water is stored in bottle
+8413	(M) lane is a component of road
+8414	(K) industries is moving towards economies
+8415	(N) plovers is a component of congregation
+8416	(D) sensor uses winding
+8417	(A)
+8418	(G)
+8419	(H) hams is stored in crock pot
+8420	(Q)
+8421	(M) lane is a component of road
+8422	(I) rouleau is coming or is derived from cells
+8423	(K)
+8424	(D) husband uses leg
+8425	(D) search uses scales
+8426	(R)
+8427	(M) handgrip is a component of micrometer
+8428	(B) creations is caused by chef
+8429	(C) engine uses cylinder
+8430	(S)
+8431	(N) laces is a component of shoe
+8432	(J) river is coming or is derived from land
+8433	(S)
+8434	(Q) basis is written or spoken about population
+8435	(R) health is written or spoken about aunt
+8436	(R) gestures is written or spoken about hand
+8437	(C)  novel uses plane crash
+8438	(D) system uses modules
+8439	(B)
+8440	(A)
+8441	(A)
+8442	(C) areometer uses spindle
+8443	(M)
+8444	(D) oven uses plug
+8445	(G)
+8446	(B) porch is caused by queen
+8447	(R) discussion is written or spoken about topic
+8448	(A)
+8449	(I)
+8450	(S) scum and stripes are not directly related
+8451	(R) company is written or spoken about dance
+8452	(R) kings is written or spoken about brotherhood
+8453	(G) prisoner is stored in detention
+8454	(A)
+8455	(B)
+8456	(G) medallion is stored in pouch
+8457	(C) packs uses needles
+8458	(B)
+8459	(D) attacker uses instrument
+8460	(D)  Plants uses rooms
+8461	(D) company uses version
+8462	(A)
+8463	(G) offers is stored in catalog
+8464	(G) heart is stored in casket
+8465	(G)
+8466	(C) company uses export
+8467	(G) hyperlink is stored in field
+8468	(K)
+8469	(G) criminal is stored in jail
+8470	(M) arm is a component of government
+8471	(A)
+8472	(M)
+8473	(B)
+8474	(G)
+8475	(I) entrance is coming or is derived from east
+8476	(A)
+8477	(D) hall uses arrangement
+8478	(G) terrorists is stored in jail
+8479	(C) selections uses advertising
+8480	(Q)
+8481	(K)
+8482	(B) haul is caused by fish
+8483	(E) cousin manufactures quilts
+8484	(M) chivalry is a component of warrior-knights
+8485	(C) mayor uses comment
+8486	(A)
+8487	(C)  drilling uses rig
+8488	(E) singer manufactures album
+8489	(B) fear is caused by power
+8490	(G)
+8491	(F) Students manufactures crops
+8492	(B) jam is caused by trucks
+8493	(B) Tides is caused by gravitational pull
+8494	(B)  streaks is caused by particles
+8495	(R) sub-committee is written or spoken about Changes
+8496	(K)
+8497	(A)
+8498	(A)
+8499	(C) retina uses photoreceptors
+8500	(A)
+8501	(R) sections is written or spoken about types
+8502	(G) gun is stored in box
+8503	(M)
+8504	(I)
+8505	(G) remote is stored in desk
+8506	(K)
+8507	(R) hogs is written or spoken about drove
+8508	(A) Borrowers fall into financial troubles
+8509	(B)
+8510	(D) men uses store
+8511	(D) farmer uses tractor
+8512	(A)
+8513	(Q)
+8514	(Q)
+8515	(M) management is a component of firm
+8516	(Q)
+8517	(I) plant is coming or is derived from storage unit
+8518	(J) codeine is coming or is derived from poppy
+8519	(D) defendant uses affidavit
+8520	(B) flicker is caused by candles
+8521	(B) pain is caused by torment
+8522	(Q) director is written or spoken about company
+8523	(B)
+8524	(D) playwright uses directions
+8525	(R) positions is written or spoken about community
+8526	(G) flour is stored in sacks
+8527	(C) train uses locomotive
+8528	(G) body is stored in suitcase
+8529	(G) boy is stored in cradle
+8530	(F) factory manufactures glass
+8531	(D) ear uses canal
+8532	(G) work is stored in galleries
+8533	(R) developer is written or spoken about property
+8534	(A)
+8535	(B) light is caused by friend
+8536	(A) suffocation is caused by entrapments
+8537	(B) glut is caused by parrs
+8538	(B) crush is caused by fans
+8539	(M) members is a component of gangs
+8540	(I) signal is coming or is derived from sine
+8541	(E) factory manufactures pie
+8542	(J) losses is coming or is derived from Storms
+8543	(I) app is coming or is derived from newspaper
+8544	(Q)
+8545	(D) drivers uses toothpick
+8546	(I) cross is coming or is derived from site
+8547	(C) cover uses assembly
+8548	(N) beans is a component of plantation
+8549	(G) seat is stored in cockpit
+8550	(D) line uses aisle
+8551	(R) works is written or spoken about lighting
+8552	(M) medicine is a component of food
+8553	(Q)
+8554	(G) bottle is stored in carton box
+8555	(J) oil is coming or is derived from fish
+8556	(A)
+8557	(I)
+8558	(C) space station uses treadmill
+8559	(C) books uses ghostwriters
+8560	(B) geometry is caused by string
+8561	(N) carpels is a component of pistil
+8562	(R) boy is written or spoken about girl
+8563	(D) document uses facts
+8564	(Q)
+8565	(B)
+8566	(G) artist is stored in can
+8567	(D) guy uses map
+8568	(K) seniors is moving towards leadership positions
+8569	(B)
+8570	(B) volery is caused by birds
+8571	(S) areas and composition are not directly related
+8572	(I)
+8573	(B)
+8574	(M)
+8575	(D) shuttles uses space
+8576	(G) valuables is stored in safe
+8577	(R) groups is written or spoken about Cadre
+8578	(R) kids is written or spoken about audience
+8579	(Q)
+8580	(Q)
+8581	(D) study uses mechanisms
+8582	(M) children is a component of competition
+8583	(C) provinces uses congress
+8584	(N) blade is a component of sword
+8585	(R) diagram is written or spoken about range
+8586	(N) speedometer is a component of dashboard
+8587	(I)
+8588	(Q)
+8589	(Q)
+8590	(D) brotherhood uses bruisers
+8591	(B)
+8592	(S) Noise regulations and force are not directly related
+8593	(B) design is caused by architects
+8594	(I) oil is coming or is derived from runoff
+8595	(B) design is caused by student
+8596	(A)
+8597	(D) drama uses aftermath
+8598	(G) server is stored in cabinet
+8599	(D) Jeans uses topstitching
+8600	(N) infantrymen is a component of legion
+8601	(B) company is caused by fireman
+8602	(B) fire is caused by collision
+8603	(B) joy is caused by animals
+8604	(Q)
+8605	(M) mainmast is a component of bark
+8606	(M) interview is a component of next show
+8607	(C) surgery uses skills
+8608	(B) satisfaction is caused by watching
+8609	(S) dryer and wall are not directly related
+8610	(K)
+8611	(H) terms is stored in page
+8612	(R) years is written or spoken about taxes
+8613	(H) water is stored in bottle
+8614	(I)
+8615	(K)
+8616	(C) hand brake uses handles
+8617	(Q)
+8618	(K)
+8619	(G) files is stored in folder
+8620	(I) gas centrifuge is coming or is derived from camp
+8621	(B)
+8622	(M) nose is a component of surfboard
+8623	(A)
+8624	(C) hospital uses corridors
+8625	(Q)
+8626	(R) fare is written or spoken about film
+8627	(R) bullets is written or spoken about hailstorm
+8628	(C) physicians uses symposium
+8629	(J) access is coming or is derived from regulation
+8630	(G) ingredients is stored in mixing ball
+8631	The most likely answer is (K) methane is moving towards wells.
+8632	(N) glands is a component of prostate
+8633	(A)
+8634	(D) students uses texts
+8635	(R) literature is written or spoken about heroes
+8636	(H)
+8637	(D) batter uses balls
+8638	(H) oysters is stored in bed
+8639	(G) topics is stored in categories
+8640	(R) shore is written or spoken about ice
+8641	(B)
+8642	(F) factory manufactures blouses
+8643	(K) Lymphoeytes is moving towards lymphatics
+8644	(A)
+8645	(Q)
+8646	(D) body uses phrase
+8647	(C) necklace uses diamond
+8648	(B)
+8649	(M) player is a component of orchestra
+8650	(D) paper uses review
+8651	(Q) journal is written or spoken about history
+8652	(D) Heating uses wood
+8653	(B) evidence is caused by results
+8654	(G)
+8655	(A) weathering is caused by Wind
+8656	(C) investors uses syndicate
+8657	(C) ewer uses motifs
+8658	(C) status uses display
+8659	(A) acne is caused by bacteria
+8660	(Q)
+8661	(B) character is caused by producers
+8662	(D) benchmarking uses sources
+8663	(K)
+8664	(E) coopers manufactures barrels
+8665	(D) buzzard uses claws
+8666	(D) car uses clutch
+8667	(C)  guitar uses strings
+8668	(J) expectations is coming or is derived from fistful
+8669	(H) goods is stored in cache
+8670	(C) brain uses hardwire
+8671	(G) machineguns is stored in box
+8672	(Q) fairy tale is written or spoken about giant
+8673	(F) shops manufactures clocks
+8674	(H) data is stored in table
+8675	(M)
+8676	(J) registration is coming or is derived from law
+8677	None of the given options (A) through (S) accurately describe the relationship or condition stated in the text "Well I still have a sore spot on my cheek bone and left joint." The text suggests that the person has a sore spot on their cheekbone and left joint, but it does not specify a causal relationship, use, storage, derivation, movement, composition, functionality, or discussion topic between the cheek and bone as the provided options suggest. Therefore, we cannot choose a correct answer from the options provided based on the text. However, if we were to infer a relationship because of the sore spot mentioned, it suggests that there is a physical complaint or issue involving the cheekbone, not that one is caused by or is causing the other or any of the other options presented.
+8678	(I)
+8679	(D) manor uses smallholdings
+8680	(I) index is coming or is derived from package
+8681	(I) fear is coming or is derived from darkness
+8682	(Q)
+8683	(H) outsiders is stored in camp
+8684	(D) man uses thumb
+8685	(G)
+8686	(M) ghost-ship is a component of fleet
+8687	(S) growth and area are not directly related
+8688	(I)
+8689	(G)
+8690	(B)
+8691	(Q) debate is written or spoken about public execution
+8692	(A)
+8693	(G) tape recorder is stored in cabinet
+8694	(D) comedy format uses sequences
+8695	(G)
+8696	(C) orchestra uses player
+8697	(D) worker uses plank
+8698	(C) brain uses electrodes
+8699	(I)
+8700	(A)
+8701	(H) redwoods is stored in grove
+8702	(M)
+8703	(F) dowel manufactures groove
+8704	(C) drink uses grain
+8705	(C) diversion uses agreements
+8706	(J) acid rain is coming or is derived from atmospheric chemistry
+8707	(H) books is stored in suitcase
+8708	(B)
+8709	(I) mother is coming or is derived from land
+8710	(K)
+8711	(B) notes is caused by telephone call
+8712	(D) baboons uses parties
+8713	(C) mechanics uses clutch
+8714	(R) vultures is written or spoken about committee
+8715	(G) money is stored in chest
+8716	(J) contention is coming or is derived from northeast
+8717	(F) bees manufactures honey
+8718	(D) couple uses accounts
+8719	(G) recipe is stored in safe
+8720	(I) Recessions is coming or is derived from excess demand
+8721	(D) contractors uses entrance
+8722	(F) guy manufactures story
+8723	(D) Technicians uses stage
+8724	(D) boom uses fitting
+8725	(Q) Questions is written or spoken about aspects
+8726	(K) tongue is moving towards canteen
+8727	(A)
+8728	(G) milk is stored in pail
+8729	(J) readers is coming or is derived from audience
+8730	(C) music player uses slot
+8731	(B) recession is caused by collapse
+8732	(D) punks uses objects
+8733	(I) character is coming or is derived from literature
+8734	(G)
+8735	(C) ferrets uses heads
+8736	(A)
+8737	(D) researcher uses categories
+8738	(G)
+8739	(B) suffering is caused by bomb
+8740	(A)
+8741	(Q) muster is written or spoken about peacocks
+8742	(K) child is moving towards outlet
+8743	(G) powder is stored in canteen cup
+8744	(F) rapper manufactures song
+8745	(B) problems is caused by policy
+8746	(S) arm and cross are not directly related
+8747	(R) stack is written or spoken about moisture
+8748	(A)
+8749	(D) show uses slot
+8750	(D) seniors uses data
+8751	(B)  plague is caused by insects
+8752	(A)  stain is caused by incoming water
+8753	(R) station is written or spoken about side
+8754	(B) bleeding is caused by injury
+8755	(K)
+8756	(I) photos is coming or is derived from friend
+8757	(G) flour is stored in bowl
+8758	(G) specimens is stored in jar
+8759	(I) companionship is coming or is derived from teammates
+8760	(G) water is stored in lakes
+8761	(E) pancreas manufactures insulin
+8762	(I)
+8763	(G)
+8764	(A)
+8765	(F) glass-blower manufactures vase
+8766	(B)  hole is caused by missile
+8767	(C) speech uses proposals
+8768	(B) films is caused by filmmakers
+8769	(E)
+8770	(G) cassette tape is stored in box
+8771	(R) humidor is written or spoken about crack
+8772	(J) mix is coming or is derived from complexity
+8773	(N) child is a component of family
+8774	(B) effect is caused by light
+8775	(B) perturbations is caused by moon
+8776	(D) editor uses interface
+8777	(G) ice cream is stored in cup
+8778	(N) screen is a component of computer
+8779	(F) Diatoms manufactures skeleton
+8780	(G) medal is stored in box
+8781	(A)
+8782	(D) staff uses tools
+8783	(C) port uses workers
+8784	(D) maid uses balcony
+8785	(C) trials uses binder
+8786	(A)
+8787	(J) juice is coming or is derived from orange
+8788	(Q)
+8789	(Q)
+8790	(D) server uses identifier
+8791	(C) piers uses concrete
+8792	(C) battles uses soldiers
+8793	(C) ship uses mast
+8794	(D) human uses box
+8795	(Q)
+8796	(R) deer is written or spoken about bevy
+8797	(B) theory is caused by journalists
+8798	(D) wolfpack uses submarines
+8799	(I) quote is coming or is derived from email
+8800	(C)  responder uses array
+8801	(Q) person is written or spoken about employee
+8802	(D) cat uses paw
+8803	(R) aldermen is written or spoken about bench
+8804	(D) biographer uses minutiae
+8805	(D) chains uses bags
+8806	(G) gun is stored in safe
+8807	(M) helve is a component of hammer
+8808	(D) nails uses hand
+8809	(H) stoics is stored in porch
+8810	(C)
+8811	(C) teachers uses profiles
+8812	(B)
+8813	(D) launcher uses system
+8814	(G) essays is stored in book
+8815	(G) water is stored in well
+8816	(G)
+8817	(R) mathematicians is written or spoken about number
+8818	(D) world uses animation
+8819	(M)
+8820	(C) wheel uses pin
+8821	(R)
+8822	(R) elders is written or spoken about body
+8823	(D) therapist uses way
+8824	(B)  crush is caused by applications
+8825	(K)
+8826	(Q) evening is written or spoken about courage
+8827	(K)
+8828	(F) Twisters manufactures creations
+8829	(R) scare is written or spoken about creatures
+8830	(Q)
+8831	(M) gunnel is a component of boat
+8832	(I)
+8833	(C) crock pot uses pork butt
+8834	(I)
+8835	(D) photographers uses cameras
+8836	(C) airport uses train
+8837	(N) teeth is a component of shark
+8838	(D) girls uses bottles
+8839	(B) coven is caused by warlocks
+8840	(A) knives is caused by capuchins
+8841	(A)
+8842	(B) cowardice is caused by curs
+8843	(G) latte is stored in glass
+8844	(Q)
+8845	(H) lives is stored in music
+8846	(K)
+8847	(H) system is stored in box
+8848	(Q)
+8849	(K) guests is moving towards wedding
+8850	(K)
+8851	(B) expansion is caused by development
+8852	(C) hourglass uses sand
+8853	(I)
+8854	(N) asteroids is a component of belt
+8855	(B) experience is caused by blend
+8856	(G) chabazite is stored in multiple U-tube
+8857	(B)
+8858	(J) fatigue is coming or is derived from sunlight
+8859	(B) damage is caused by collision
+8860	(D) general uses role
+8861	(J) policy is coming or is derived from statutes
+8862	(G) disposes is stored in area
+8863	(J) depression is coming or is derived from dopamine
+8864	(N) areas is a component of kingdom
+8865	(C) bridge uses railing
+8866	(C) game uses referee
+8867	(D) squatters uses building
+8868	(D) farm uses greenhouses
+8869	(B) clauses is caused by framers
+8870	(G) compound is stored in tube
+8871	(D) coterie uses editors
+8872	(C)  builder uses construction
+8873	(C) leg uses muscles
+8874	(Q)
+8875	(J) electricity is coming or is derived from turbines
+8876	(H) snakes is stored in pit
+8877	(R) flock is written or spoken about ewes
+8878	(I) clip is coming or is derived from series
+8879	(B) suffering is caused by exploitation
+8880	(B) formalism is caused by literature
+8881	(G) body is stored in drum
+8882	(J) spirits is coming or is derived from maize
+8883	(A)
+8884	(D) mechanism uses magnet
+8885	(B)  riots is caused by verdict
+8886	(G) drug is stored in tablet
+8887	(G) results is stored in films
+8888	(B) quarrel is caused by purchase
+8889	(B)
+8890	(I) neologisms is coming or is derived from literature
+8891	(G)
+8892	(B) program is caused by author
+8893	(D) helicopters uses rotors
+8894	(Q)
+8895	(B) story is caused by students
+8896	(I)
+8897	(Q) descent is written or spoken about woodpeckers
+8898	(D) setup uses chimney
+8899	(J) jam is coming or is derived from Strawberry
+8900	(I)
+8901	(Q)
+8902	(I) league is coming or is derived from movements
+8903	(G) poison is stored in milk
+8904	(D) managers uses spreadsheets
+8905	(C) office uses journalist
+8906	(J) agents is coming or is derived from society
+8907	(J) wines is coming or is derived from valley
+8908	(K) talks is moving towards contract
+8909	(D) stories uses historical truths
+8910	(R) study is written or spoken about problems
+8911	(M) sergeant is a component of army
+8912	(Q)
+8913	(D) soldier uses message
+8914	(R) hormone is written or spoken about growth
+8915	(N) ribs is a component of umbrella
+8916	(A)
+8917	(R) organizations is written or spoken about terrorist
+8918	(K)
+8919	(M)
+8920	(E) company manufactures software
+8921	(C) syrup uses blackberry
+8922	(R) maker is written or spoken about film
+8923	(M) pocket is a component of trousers
+8924	(E) monk manufactures tablet
+8925	(M) president is a component of corporation
+8926	(C) handle uses jaws
+8927	(J) agency is coming or is derived from founder
+8928	(N) nails is a component of foot
+8929	(D) ferret uses paw
+8930	(G) amount is stored in cylinder
+8931	(D) game uses television
+8932	(C) valve uses plug
+8933	(G) sister is stored in cradle
+8934	(J) piglets is coming or is derived from farrow
+8935	(M) department is a component of store
+8936	(M) chain is a component of saws
+8937	(B) election is caused by appointment
+8938	(G) polonium is stored in tantalum capsule
+8939	(K)
+8940	(B) fever is caused by immunizations
+8941	(N) blade is a component of propellor
+8942	(A)  contention is caused by busloads
+8943	(J) sweater is coming or is derived from mother
+8944	(B) remuda is caused by horses
+8945	(B)  plague is caused by locusts
+8946	(C) fall fair uses exhibits
+8947	(C) government uses taxation
+8948	(S) literature and recognition are not directly related
+8949	(A)
+8950	(G)
+8951	(D) Vehicles uses bumpers
+8952	(F) mischief manufactures mice
+8953	(B)
+8954	(A)
+8955	(C) workers uses wax
+8956	(Q) author is written or spoken about devil
+8957	(B) faction is caused by leaders
+8958	(D) law-maker uses horse
+8959	(C) injector uses bar
+8960	(K)
+8961	(K)
+8962	(M) door is a component of truck
+8963	(G) tea is stored in mug
+8964	(D) observations uses monitor
+8965	(R) horses is written or spoken about harras
+8966	(R) ducks is written or spoken about raft
+8967	(K) people is moving towards hunger
+8968	(G) clothing is stored in hamper
+8969	(I)
+8970	(D) writer uses ink
+8971	(D) city uses station
+8972	(B)
+8973	(K)
+8974	(B)
+8975	(R) conference is written or spoken about Proposals
+8976	(E) carpenter manufactures roof
+8977	(D) student uses website
+8978	(R) day is written or spoken about trials
+8979	(Q) lesson is written or spoken about predominant
+8980	(R) discussion is written or spoken about journalists
+8981	(D) Women uses sheep
+8982	(D) definition uses standards
+8983	(G) posts is stored in installation
+8984	(I)
+8985	(Q)
+8986	(D) regiment uses swordsmen
+8987	(B) interaction is caused by layers
+8988	(E) gland manufactures chemical
+8989	(B)  crisis is caused by cost
+8990	(C) description uses narration
+8991	(J) clot is coming or is derived from blood
+8992	(B) injuries is caused by fireworks
+8993	(J) being is coming or is derived from painting
+8994	(R) front pages is written or spoken about weather
+8995	(K)
+8996	(H) formula is stored in bottle
+8997	(D) waiters uses mop
+8998	(S) desert and lapwings are not directly related
+8999	(Q) norms is written or spoken about issues
+9000	(G) bomb is stored in radio-cassette player
+9001	(G) key is stored in safe
+9002	(R) breakdown is written or spoken about philosopher
+9003	(M) flapper is a component of amplifier
+9004	(D) wine uses carafe
+9005	(I) threat is coming or is derived from television
+9006	(G) citations is stored in book
+9007	(G)
+9008	(R) marines is written or spoken about platoon
+9009	(C) crops uses plantation
+9010	(G) drive is stored in wallet
+9011	(R) programs is written or spoken about producer
+9012	(A)
+9013	(M) chamber is a component of oven
+9014	(B) illness is caused by chickenpox
+9015	(B) wrinkles is caused by sun
+9016	(J) filters is coming or is derived from dependencies
+9017	(D) ship uses port
+9018	The most likely answer is (A) erosion is caused by disturbances.
+9019	(Q) think tank is written or spoken about issues
+9020	(A)
+9021	(C) police force uses policeman
+9022	(M)
+9023	(G)
+9024	(G)
+9025	(B)  mosaicism is caused by mutation
+9026	(I) citation is coming or is derived from books
+9027	(D) ship uses harbour
+9028	(Q) Considerations is written or spoken about cases
+9029	(R) eyes is written or spoken about birds
+9030	(R) paper is written or spoken about systems
+9031	(Q) scientists is written or spoken about map
+9032	(M)
+9033	(D) man uses list
+9034	(C)  grinding uses wheels
+9035	(G)
+9036	(C) do-it-yourselfer uses cutter
+9037	(K)
+9038	(C) handycam uses tape
+9039	(K)
+9040	(C) approach uses rule
+9041	(I)
+9042	(D) shop uses method
+9043	(G) drug is stored in bottle
+9044	(H) milk is stored in bottle
+9045	(H) money is stored in suitcase
+9046	(D) Students uses wiki
+9047	(C) leaders uses promises
+9048	(C) economy uses dollars
+9049	(B) organization is caused by student
+9050	(Q) controversy is written or spoken about intelligence
+9051	(C) sauce uses mushroom
+9052	(F) boy manufactures windmills
+9053	(D) Seminars uses area
+9054	(J) bills is coming or is derived from convention
+9055	(B)
+9056	(F) shipyard manufactures vessel
+9057	(B)
+9058	(Q) members is written or spoken about ordinance
+9059	(Q) news is written or spoken about interplay
+9060	(K)
+9061	(G) water is stored in tank
+9062	(A)
+9063	(R) debate is written or spoken about way
+9064	(N) concerts is a component of treasure trove
+9065	(I) woman is coming or is derived from family
+9066	(B) bevy is caused by doves
+9067	(I) pie is coming or is derived from sky
+9068	(A)
+9069	(S)
+9070	(C) device uses spring
+9071	(F) company manufactures house
+9072	(A)
+9073	(B) burns is caused by liquids
+9074	(B) dispute is caused by plot
+9075	(I)
+9076	(K)
+9077	(D) idiot uses motion
+9078	(K)
+9079	(Q) exaltation is written or spoken about larks
+9080	(H) supporters is stored in camaraderie
+9081	(A)
+9082	(G) handgun is stored in safe
+9083	(B)  flooding is caused by cyclone
+9084	(J) followers is coming or is derived from brigade
+9085	(C) poet uses discourse
+9086	(R) lid is written or spoken about jar
+9087	(A)
+9088	(R) locations is written or spoken about handful
+9089	(D) administration uses centres
+9090	(C) turbines uses rotors
+9091	(C) bio-magnification uses bio-energetics
+9092	(G) hurts is stored in memories
+9093	(I) model is coming or is derived from event
+9094	(J) ownership is coming or is derived from convention
+9095	(Q) ideas is written or spoken about issue
+9096	(G) man is stored in pit
+9097	(D) officers uses bus
+9098	(E) mother manufactures raft
+9099	The most likely answer is (D) astronauts uses capsule.
+9100	(M)
+9101	(M) president is a component of corporation
+9102	(D) legion uses archers
+9103	(G) skeleton is stored in tomb
+9104	(N) swans is a component of squadron
+9105	(N) paw is a component of lion
+9106	(K)
+9107	(K)
+9108	(S)
+9109	(Q)
+9110	(A)
+9111	(B)
+9112	(H) food items is stored in parcels
+9113	(M) lid is a component of bin
+9114	(Q) officials is written or spoken about dossier
+9115	(I)
+9116	(D) gunman uses weapons
+9117	(G) buns is stored in steamer
+9118	(C) contests uses poems
+9119	(R) death is written or spoken about Dehydration
+9120	(C) developer uses software
+9121	(B) statue is caused by sculptor
+9122	(G) tissue is stored in capsule
+9123	(I)
+9124	(D) baby uses wipes
+9125	(D) ship uses port
+9126	(R) oxbirds is written or spoken about fling
+9127	(I) method is coming or is derived from country
+9128	(A)
+9129	(G) reel is stored in can
+9130	(C) hospital uses staff
+9131	(A)
+9132	(D) Student uses telephone
+9133	(D) user uses button
+9134	(M) plate is a component of electroscope
+9135	(D) artist uses crayons
+9136	(B)
+9137	(D) hostel uses building
+9138	(N) blade is a component of sword
+9139	(B)  suffering is caused by crisis
+9140	(G) rags is stored in receptacle
+9141	(R) inscriptions is written or spoken about volume
+9142	(G)
+9143	(I) comradeship is coming or is derived from brothers
+9144	(F) person manufactures goods
+9145	(C) rating uses note
+9146	(B)
+9147	(B)
+9148	(B) Hiccups is caused by spasm
+9149	(R) circle is written or spoken about location
+9150	(B) electricity is caused by biomass
+9151	(C) saint uses metaphors
+9152	(C) collar uses gear
+9153	(G)
+9154	(D) aircraft uses approach
+9155	(M) moments is a component of year
+9156	(F) memes manufactures copies
+9157	(I)
+9158	(G) Cocaine is stored in pineapples
+9159	(G) puppy is stored in garbage bag
+9160	(I) committee is coming or is derived from people
+9161	(A)
+9162	(G) references is stored in name index
+9163	(A)
+9164	(B) speech is caused by critics
+9165	(Q) publication is written or spoken about developments
+9166	(D) machine uses memory
+9167	(B) irritation is caused by chemicals
+9168	(B) humiliation is caused by people
+9169	(Q) exhibition is written or spoken about contacts
+9170	(B) initiations is caused by years
+9171	(R) sensation is written or spoken about visit
+9172	(A)
+9173	(S)
+9174	(D) sessions uses abstracts
+9175	(I)
+9176	(J) newspaper is coming or is derived from funding
+9177	(F) hands manufactures tomb
+9178	(G) atlas is stored in cabinet
+9179	(A)
+9180	(B) email is caused by person
+9181	(B) reproductive toxicity is caused by nitrite
+9182	(I) quotes is coming or is derived from movies
+9183	(H) seat is stored in car
+9184	(H) coal is stored in scuttle
+9185	(M) surface is a component of plates
+9186	(Q)
+9187	(A) priests is caused by superfluity
+9188	(J) flour is coming or is derived from wheat
+9189	(G) cameras is stored in booths
+9190	(B)
+9191	(Q)
+9192	(Q) ray theory is written or spoken about layer
+9193	(R) interpretation is written or spoken about dispute
+9194	(J) political party is coming or is derived from chairman
+9195	(R) programmers is written or spoken about practices
+9196	(D) brew uses cauldron
+9197	(G) Dioxide is stored in atmosphere
+9198	(S) mutation and thrushes are not directly related
+9199	(Q) discussion is written or spoken about issues
+9200	(K) recovery is moving towards next year
+9201	(I)
+9202	(J) relationship is coming or is derived from book
+9203	(C) radio uses button
+9204	(D) guards uses building
+9205	(D) technician uses in-circuit emulator
+9206	(J) starch is coming or is derived from wheat
+9207	(M) shank is a component of hook
+9208	(I) Death is coming or is derived from vat
+9209	(I)
+9210	(C) train uses carriages
+9211	(J) brands is coming or is derived from alliance
+9212	(G) mouse is stored in loaf
+9213	(A)
+9214	(D) bird uses wing
+9215	(D) bootlegger uses staples
+9216	(H) reeds is stored in clump
+9217	(J) prequels is coming or is derived from stories
+9218	(G) code is stored in process
+9219	(D) man uses testosterone
+9220	(I)
+9221	(B)
+9222	(K) tritium is moving towards water
+9223	(I)
+9224	(A)
+9225	(I) gas is coming or is derived from algae
+9226	(A)
+9227	(B) Diabetes is caused by disorders
+9228	(A)
+9229	(N) ship is a component of fleet
+9230	(D) tool uses handles
+9231	(K)
+9232	(H)
+9233	(N) soldiers is a component of division
+9234	(B) variations is caused by stratospheric winds
+9235	(A)
+9236	(C) wine uses plum
+9237	(I) introduction is coming or is derived from book
+9238	(I) rock is coming or is derived from strokes
+9239	(Q)
+9240	(I)
+9241	(N) rice is a component of meal
+9242	(H) objects is stored in stack
+9243	(G) tank is stored in bunker
+9244	(G) maps is stored in portfolio
+9245	(R) soul is written or spoken about balm
+9246	(G) man is stored in custody
+9247	(K) tears is moving towards river
+9248	(C) operation uses reservoir
+9249	(H) tidbits is stored in handful
+9250	(A)
+9251	(C) transportation uses unit
+9252	(I) insight is coming or is derived from problem
+9253	(C) leadership uses statement
+9254	(D) fish uses shoal
+9255	(G) wine is stored in can
+9256	(B) log- jam is caused by cases
+9257	(H) book reviews is stored in journal
+9258	(Q)
+9259	(B) bloodshed is caused by growth
+9260	(H) cheque is stored in correspondence
+9261	(Q) class is written or spoken about therapeutic benefits
+9262	(R) cows is written or spoken about flink
+9263	(H) partners is stored in ring
+9264	(J) bark is coming or is derived from Tree
+9265	(C) firearm uses bolt
+9266	(C) evaporators uses water
+9267	(N) sections is a component of questionnaire
+9268	(B) disputation is caused by lawyers
+9269	(R) sentence is written or spoken about benefits
+9270	(D) witch uses bone
+9271	(I) biosurfactant is coming or is derived from oil
+9272	(C) ladder uses steps
+9273	(H) isopropanol is stored in bottle
+9274	(C) group uses letter
+9275	(K)
+9276	(C) towboats uses rudders
+9277	(F) tribes manufactures houses
+9278	(D) rain uses forest canopy
+9279	(D) boat uses harbour
+9280	(B)
+9281	(A) obligations is caused by company
+9282	(N) scholars is a component of community
+9283	(G) room is stored in corner
+9284	(C) websites uses technique
+9285	(H) IOU is stored in file cabinet
+9286	(M)
+9287	(J) oil is coming or is derived from sunflower
+9288	(D) stores uses areas
+9289	(I) energy is coming or is derived from source
+9290	(Q)
+9291	(D) man uses bat
+9292	(G) remnants is stored in box
+9293	(N) hemispheres is a component of cerebrum
+9294	(R) cats is written or spoken about clowder
+9295	(C) casing uses powder
+9296	(G) soul is stored in body
+9297	(K)
+9298	(Q)
+9299	(Q)
+9300	(K) nucleocapsids is moving towards nuclei
+9301	(E) hornets manufactures nest
+9302	(C) pump uses spindle
+9303	(D) caravan uses camels
+9304	(C) show uses crimes
+9305	(D) chocolate uses butter
+9306	(D) niece uses apartment
+9307	(B) design is caused by architect
+9308	(D) cook uses coals
+9309	(B)
+9310	(R) collaboration is written or spoken about moons
+9311	(I)
+9312	(Q) receiver is written or spoken about catch
+9313	(N) sleeve is a component of shirt
+9314	(G) garden is stored in pail
+9315	(B)
+9316	(C) tires uses nuts
+9317	(D) man uses knife
+9318	(G) stone is stored in cup
+9319	(B) noise is caused by resistors
+9320	(R) reconstruction is written or spoken about damage
+9321	(Q) dialogue is written or spoken about economic impact
+9322	(D) bank uses plans
+9323	(I)
+9324	(D) stew uses cauldron
+9325	(R) bitterns is written or spoken about sedge
+9326	(I)
+9327	(Q) questions is written or spoken about cultural differences
+9328	(Q) phosphorus is written or spoken about calcium loss
+9329	(D) furnace uses thermostat
+9330	(A)
+9331	(D) mover uses hamburger
+9332	(G)
+9333	(N) chapters is a component of book
+9334	(H) desserts is stored in display case
+9335	(G) chemicals is stored in river
+9336	(Q) member is written or spoken about team
+9337	(D) script uses index
+9338	(R) blog is written or spoken about preview
+9339	(Q) radio is written or spoken about development
+9340	(D) convict uses claim
+9341	(G)
+9342	(A)
+9343	(I)
+9344	(H) princesses is stored in troop
+9345	(H) marijuana is stored in plastic bag
+9346	(C) refrigerator uses thermostat
+9347	(B)
+9348	(E) gland manufactures hormone
+9349	(A)
+9350	(M) mountain is a component of landscapes
+9351	(G) boxes is stored in house
+9352	(A)
+9353	(C) engineers uses optimization
+9354	(C) comrades uses phalanx
+9355	(R) baboons is written or spoken about flange
+9356	(D) architect uses strip
+9357	(B) fever is caused by stress
+9358	(C) flight uses aircraft
+9359	(I)
+9360	(G) mastiffs is stored in homes
+9361	(C) potentiometer uses pin
+9362	(I) nide is coming or is derived from pheasants
+9363	(I) statement is coming or is derived from topics
+9364	(Q)
+9365	(H) gold dust is stored in bottle
+9366	(A)
+9367	(A)
+9368	(R) mobsters is written or spoken about circle
+9369	(N) tissue is a component of nose
+9370	(B) monsoons is caused by change
+9371	(J) behavior is coming or is derived from rules
+9372	(J) blast is coming or is derived from explosion
+9373	(A)
+9374	(C) helmets uses padding
+9375	(D) letters uses addresses
+9376	(D)  kitchen uses fridge
+9377	(D) shop uses booth
+9378	(B)
+9379	(A)
+9380	(D) device uses port
+9381	(D) workshop uses tools
+9382	(C) comedy uses joke
+9383	(M)
+9384	(D) quarterback uses pass
+9385	(H) liquids is stored in cistern
+9386	(J) prevention is coming or is derived from policy
+9387	(D) catapult uses arm
+9388	(D) company uses research
+9389	(K)
+9390	(D) decedent uses yard
+9391	(B) heart is caused by valves
+9392	(R) birth is written or spoken about author
+9393	(Q)
+9394	(B)
+9395	(J) flour is coming or is derived from bean
+9396	(R) member is written or spoken about key
+9397	(R) opposition is written or spoken about merger
+9398	(B) regulation is caused by valve
+9399	(A) head is caused by bullet
+9400	(G)
+9401	(I)
+9402	(B) debris is caused by fire
+9403	(A)
+9404	(D) slot machine uses reels
+9405	(C) cylinder uses rod
+9406	(H) months is stored in archive
+9407	(H) wine is stored in Jug
+9408	(D) paddle uses canister
+9409	(D) government uses science
+9410	(Q)
+9411	(N) floor is a component of cockpit
+9412	(D) team uses general counsel
+9413	(F) merchant manufactures duct-flutes
+9414	(H) features is stored in plurality
+9415	(A)
+9416	(K)
+9417	(D) technique uses laser
+9418	(M) species is a component of forest
+9419	(C) story uses parts
+9420	(N) leaves is a component of plant
+9421	(F) starch manufactures sugars
+9422	(A)
+9423	(M) tree is a component of woods
+9424	(F) council manufactures zones
+9425	(N) street vision is a component of theme
+9426	(G) catheter is stored in artery
+9427	(B) fever is caused by vaccines
+9428	(B) decision is caused by maker
+9429	(G) bodies is stored in barrels
+9430	(Q) report is written or spoken about motives
+9431	(R) arbitrator is written or spoken about baseball
+9432	(Q)
+9433	(M) tree is a component of woods
+9434	(B)
+9435	(D) meeting uses vote
+9436	(G) movie is stored in box set
+9437	(K)
+9438	(A)
+9439	(C) canteen uses bottle
+9440	(I)
+9441	(C) galvanometer uses coil
+9442	(Q)
+9443	(D) project uses art
+9444	(D) squads uses shots
+9445	(H) bay is stored in fuselage
+9446	(I) rabble is coming or is derived from persons
+9447	(G) pole is stored in receptacle
+9448	(N) cerebellum is a component of brain
+9449	(D) pillow uses foam
+9450	(B) houses is caused by government
+9451	(B)
+9452	(D) rules uses criteria
+9453	(I) remnant is coming or is derived from epochs
+9454	(D) player uses keyframe
+9455	(R) fleet is written or spoken about ship
+9456	(Q)
+9457	(R) blackboard is written or spoken about teacher
+9458	(E) employee manufactures work
+9459	(H) tourism is stored in categories
+9460	(I)
+9461	(J) depression is coming or is derived from mother
+9462	(R) fairies is written or spoken about troop
+9463	(I)  syrup is coming or is derived from cask
+9464	(B) rainbows are caused by refraction
+9465	(B)
+9466	(E) maker manufactures candlestick
+9467	(A)
+9468	(Q) parade is written or spoken about athletes
+9469	(B)  harm is caused by flood
+9470	(R) book is written or spoken about history
+9471	(G) album is stored in jacket
+9472	(K) aid is moving towards countries
+9473	(D) mustard uses mustard seeds
+9474	(M) mother is a component of team
+9475	(G) milk is stored in sack
+9476	(J) themes is coming or is derived from work
+9477	(C) researchers uses bands
+9478	(D) regiment uses archers
+9479	(M)
+9480	(R) year is written or spoken about formations
+9481	(J) milk is coming or is derived from cow
+9482	(H) power is stored in batteries
+9483	(G) bomb is stored in fruit
+9484	(C) dryer uses burner
+9485	(D) humpback uses flipper
+9486	(D) vessels uses badge
+9487	(D) bakers uses handle
+9488	(D) prince uses frosting
+9489	(B)
+9490	(I)
+9491	(Q)
+9492	(K) people is moving towards twilight zone
+9493	(C) soup uses chicken
+9494	(A)
+9495	(Q)
+9496	(G) casket is stored in casket
+9497	(M) window is a component of train
+9498	(Q) drawing is written or spoken about man
+9499	(R) literature is written or spoken about chess openings
+9500	(G) powder is stored in roll
+9501	(G)
+9502	(D) sweeper uses end
+9503	(D) abridger uses eye
+9504	(Q)
+9505	(K) Rumors is moving towards public
+9506	(G)
+9507	(G)
+9508	(A)
+9509	(J) chicks is coming or is derived from brood
+9510	(I)
+9511	(K) pilots is moving towards trouble
+9512	(D) grower uses moldboard
+9513	(F) maker manufactures handbags
+9514	(I) recipe is coming or is derived from grandmother
+9515	(S) steam and combustion are not directly related
+9516	(B) timers is caused by event
+9517	(M) clergy is a component of faiths
+9518	(S)
+9519	(B) shifts is caused by gas flows
+9520	(D) teacher uses book
+9521	(Q)
+9522	(G) contents is stored in packet
+9523	(M) flight is a component of stairs
+9524	(A) hemiparesis is caused by Lesions
+9525	(Q) initiative is written or spoken about obesity
+9526	(Q)
+9527	(M) frontpage is a component of news paper
+9528	(G) chip is stored in reliquary
+9529	(M) blank is a component of carton
+9530	(R) sparrows is written or spoken about meinie
+9531	(G) fluid is stored in body
+9532	(S)
+9533	(C) salad uses olive oil
+9534	(G) acid is stored in bottle
+9535	(C) shield uses transformer
+9536	(Q)
+9537	(D) cadre uses combinations
+9538	(Q) letter is written or spoken about teaching duties
+9539	(K) projects is moving towards markets
+9540	(C) blouse uses sleeve
+9541	(Q) issues is written or spoken about law
+9542	(A) delays is caused by congestion
+9543	(Q)
+9544	(K) suspects is moving towards police
+9545	(Q)
+9546	(H) fish is stored in catch
+9547	(D) program uses notes
+9548	(D) term uses metaphor
+9549	(I)
+9550	(H) novels is stored in anthology
+9551	(D) officer uses ram
+9552	(R) velocity is written or spoken about bastard
+9553	(B) verses is caused by people
+9554	(G) text is stored in text box
+9555	(D)  dentist uses drill
+9556	(J) station is coming or is derived from competition
+9557	(N) parts is a component of proverb
+9558	(C) file uses picture
+9559	(B)  plasma is caused by discharge
+9560	(I)
+9561	(O) Indicator forms a nonfunctional part of bus
+9562	(N) end is a component of horn
+9563	(D) copper uses molds
+9564	(G) storylines is stored in chapters
+9565	(C) cage uses padlock
+9566	(Q)
+9567	(R) paper is written or spoken about methods
+9568	(G) coffee is stored in pot
+9569	The most likely answer from the provided options is (N) clothes is a component of ensemble.
+9570	(H) monsters is stored in zoo
+9571	(I) dust is coming or is derived from caisson
+9572	(D) guest uses mallet
+9573	(A)
+9574	(B) treatment is caused by ultrasound
+9575	(C)
+9576	(B) jump is caused by deterioration
+9577	(A) pressure is caused by cocaine
+9578	(G) man is stored in building
+9579	(H)
+9580	(D) locomotives uses engines
+9581	(G) dirt is stored in canister
+9582	(A) glitch is caused by spike
+9583	(N) restaurant is a component of complex
+9584	(Q) horde is written or spoken about hackers
+9585	(G) areas is stored in spaces
+9586	(D) recordings uses public domain
+9587	(I) book is coming or is derived from author
+9588	(D) brigade uses guns
+9589	(A)
+9590	(D) artist uses pointer
+9591	(C) cookies use oatmeal
+9592	(B) clamour is caused by rooks
+9593	(K) grenade is moving towards crowd
+9594	(J) pen is coming or is derived from intellect
+9595	(Q) tribe is written or spoken about baboons
+9596	(Q) verses is written or spoken about freedom
+9597	(B) coughing is caused by inhaling
+9598	(G) data is stored in section
+9599	(Q) character-compeers is written or spoken about profligates
+9600	(R) cat is written or spoken about intestine
+9601	(B)
+9602	(R) churches is written or spoken about communion
+9603	(M) handle is a component of dishwasher
+9604	(H) items is stored in suitcase
+9605	(D) tests uses substance
+9606	(S)
+9607	(C) reduction uses facemasks
+9608	(R) folks is written or spoken about ratpack
+9609	(H) faces is stored in basket
+9610	(I) report is coming or is derived from requirements
+9611	(I)
+9612	(N) keypad keys is a component of keyboard
+9613	(M)
+9614	(D) chief uses police
+9615	(Q) ads is written or spoken about dangers
+9616	(R) drink is written or spoken about afternoon
+9617	(G) swim bladder is stored in fish
+9618	(A)
+9619	(D) sailor uses cudgel
+9620	(J) styles is coming or is derived from menage
+9621	(A) development is caused by effort
+9622	(Q)
+9623	(D) officers uses leave
+9624	(J) panic attacks is coming or is derived from Stress
+9625	(M) pads is a component of mice
+9626	(M) peanut butter is a component of cookies
+9627	(G)
+9628	(D) Lumberjacks uses handle
+9629	(Q) works is written or spoken about epistemology
+9630	(G) baby is stored in cupboard drawer
+9631	(J) cattle traffic is coming or is derived from drift
+9632	(N) station is a component of metro
+9633	(K)
+9634	(Q)
+9635	(C) hourglass uses sand
+9636	(M) valve is a component of heart
+9637	(K)
+9638	(A)
+9639	(K) President is moving towards jobs
+9640	(G) bomb is stored in bin
+9641	(C) shop uses staff
+9642	(I)
+9643	(R) vessel is written or spoken about flame
+9644	(R) group is written or spoken about array
+9645	(G) head is stored in jar
+9646	(R) corporation is written or spoken about chair
+9647	(B)
+9648	(B) pandemic is caused by virus
+9649	(C) products uses band
+9650	(C) acids uses processes
+9651	(J) associates is coming or is derived from ring
+9652	(D) forces uses troops
+9653	(R) speech is written or spoken about existence
+9654	(R) operator is written or spoken about switchboard
+9655	(K)
+9656	(I) term is coming or is derived from expression
+9657	(I)
+9658	(R) report is written or spoken about state
+9659	(A)
+9660	(Q)
+9661	(D) discussion uses content
+9662	(G)
+9663	(R) agreement is written or spoken about products
+9664	(S)
+9665	(K)
+9666	(M)
+9667	(A)
+9668	(G) button is stored in dash
+9669	(I)
+9670	(K)
+9671	(J) style is coming or is derived from Personality
+9672	(D) course uses holes
+9673	(B)
+9674	(C) file uses filename extension
+9675	(J) questions is coming or is derived from verbalizations

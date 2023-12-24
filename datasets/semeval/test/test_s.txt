@@ -1,0 +1,4 @@
+8001	The most common <e1>audits</e1> were about <e2>waste</e2> and recycling
+8002	The <e1>company</e1> fabricates plastic <e2>chairs</e2>
+8003	The school <e1>master</e1> teaches the lesson with a <e2>stick</e2>
+8004	The suspect dumped the dead <e1>body</e1> into a local <e2>reservoir</e2>
